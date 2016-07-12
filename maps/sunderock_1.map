@@ -1,0 +1,82 @@
+sunderock_1.map,sunderock_1.tmp,0,0
+P,to Direwind Cliffs,Red,-363,2932
+P,to Vergalid Mines,Red,-1627,-913
+P,to Goru`kar Mesa,Red,-698,-3759
+P,Wizard Spires,Red,611,529
+P,Quartermaster Azynn (Banker),Gold,978,-1543
+P,Basilisk Valley,White,-1534,-2686
+P,The Sulfur Bog,White,1237,2712
+P,Sunderock Geyser,White,1008,-360
+P,Western Spire,White,1043,396
+P,Southern Spire,White,-301,-3087
+P,Eastern Spire,White,-732,432
+P,The Vergalid Slave Quarry,White,-1473,-862
+P,The Chimera Caves,White,1849,-2521
+P,Northern Spire,White,-1189,3023
+P,Starshine Hotsprings,White,-527,-2367
+P,Grendel Falls,White,514,-1650
+P,Fulast Falls,White,195,1060
+P,Drakkin Camp,White,701,-1285
+P,Geyser Trap,Yellow,1128,-383
+P,Sergeant Kazzar (Raids),CadetBlue,633,-1210
+P,Scout Voxkin (Rogue GM),Grey,632,-1229
+P,Scout Ironscale (Ranger GM),Grey,730,-1514
+P,Crusader Vansarr (Paladin GM),Grey,691,-1490
+P,Crusader Zack (Warrior GM),Grey,693,-1498
+P,Crusader Coradra (Cleric GM),Grey,827,-1407
+P,Mage Spells,DarkGreen,-1063,1616
+P,Paladin Spells,DarkGreen,789,-1382
+P,Cleric Spells,DarkGreen,833,-1381
+P,Melee Tomes,DarkGreen,860,-1429
+P,Quartermaster Splitscale (Merchant),DarkGreen,835,-1380
+P,Quatermaster Kaladrahn (Merchant),DarkGreen,862,-1429
+P,Quartermaster Shyllia (Merchant),DarkGreen,980,-1517
+P,Mutaq Busla (Quest),DarkCyan,644,-1306
+P,Hranath Velentok (Quest),DarkCyan,744,-1614
+P,Armorer Arkin (Armor Quest),DarkCyan,830,-1468
+P,Gygun Urulump (Quest),DarkCyan,-1311,-2652
+P,Pezripisid (Quest 70+),DarkCyan,553,-1151
+P,Fentier Meqental (Quest),DarkCyan,731,-1548
+P,Syrrengar the Hunter (Quest),DarkCyan,-61,-2806
+P,Captain Zheren (Quest),DarkCyan,619,-1217
+P,Nhemen (Quest),DarkCyan,861,-1380
+P,Drazak O`lyn (Quest),DarkCyan,874,-3178
+P,Zhureni (Quest 70+),DarkCyan,1029,-1510
+P,Artificer Pulizzi (Quest 70+),DarkCyan,782,-1363
+P,Anaglass (Quest),DarkCyan,-731,-2141
+P,Rhuk l'vere (Quest),DarkCyan,425,-1009
+P,Overseer Vorsirus + Guardian of the Mines (Roam),White,-1211,-1090
+P,Randalph the Wise (Roam),White,-729,2289
+P,Palsimile,White,-728,2279
+P,Obsidian (Roam),DarkRed,-1439,-2802
+P,Wingover,White,1204,-2497
+P,Fiddleback (Roam),White,-1317,994
+P,Sellezra,White,1973,-2548
+P,Trideath,White,2165,-2477
+P,Steam Lord Roil (PH),DarkRed,-44,2380
+P,Serravok of the plague wind,White,891,1791
+P,Mirrormask,White,-1222,1185
+P,Head Smith Gannalt,White,-1483,-991
+P,Mazzie Ro'khelm,White,1033,-1526
+P,Drake Handler Rolkor (Green Gray or Black),Red,728,-1262
+P,Crusader Andra,White,931,-1647
+P,Crusader Rayfin,White,907,-1671
+P,Granite (Roam),White,-1517,-1823
+P,Keepers of South Spire,White,-345,-3222
+P,Sandstorm (Roam),White,1130,916
+P,Oblivion,White,1255,3292
+P,Balloondabloop (Roam),White,1352,2859
+P,Crusade of scale,White,920,-1630
+P,Doomfount (NamedRoam),DarkRed,971,-508
+P,Dranadune (Named),DarkRed,1177,-524
+P,Sulfurog (Named),DarkRed,1359,2771
+P,Mistwalker (water dragon),DarkRed,-931,3088
+P,Komodokin (Named),DarkRed,-1392,-1743
+P,Tortugone (Roam),DarkRed,-56,356
+P,Razorfang (Named),DarkRed,1391,-2254
+P,Whitewater (Named),DarkRed,-739,2772
+P,Skyrake (Named),DarkRed,846,1821
+P,Granite (PH),DarkRed,-1479,-2477
+P,Darkmist (PH),DarkRed,-840,1823
+P,Whitewater (PH),DarkRed,-1274,1980
+P,Green Legion Port (from Drake Handler),Yellow,-1578,-406

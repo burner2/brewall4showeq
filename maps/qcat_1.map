@@ -1,0 +1,49 @@
+qcat_1.map,qcat_1.tmp,0,0
+P,to South Qeynos,Red,-63,229
+P,to North Qeynos,Red,-304,214
+P,to North Qeynos,Red,-48,997
+P,to North Qeynos,Red,160,859
+P,to North Qeynos,Red,96,638
+P,to South Qeynos,Red,130,-144
+P,from Solusek B,Red,-175,343
+P,Felia (Weapons),DarkGreen,-423,416
+P,Gehnon (Spells),DarkGreen,-419,417
+P,Jexun (Spells),DarkGreen,-414,404
+P,Tessia (Spells),DarkGreen,-436,339
+P,Naes (Spells),DarkGreen,-426,347
+P,Senst (Spells),DarkGreen,-412,345
+P,1.Injured Rat,White,10,50
+P,2.Bloated Alligator,White,10,35
+P,3.Sewer Sentinels,White,10,20
+P,4.Exhausted Guard,White,10,5
+P,5.Frogloks,White,10,-10
+P,6.Cubert,White,10,-25
+P,7.Mercenaries,White,10,-40
+P,8.Undead Knight,White,10,-55
+P,9.Spectres,White,10,-70
+P,10.Bertoxxulous Shrine,White,10,-85
+P,11.Injured Brigand,White,10,-100
+P,12.Zombie,White,10,-115
+P,13.Thugs,White,10,-130
+P,14.Smugglers,White,10,-145
+P,15.Sharks,White,10,-160
+P,Zaen (GM Shadowknight),Grey,-370,429
+P,Kurne (GM Necromancer),Grey,-298,296
+P,2,White,230,650
+P,3,White,200,275
+P,4,White,140,-45
+P,5,White,-30,100
+P,6,White,-85,180
+P,7,White,345,465
+P,8,White,150,665
+P,9,White,-220,445
+P,10,White,-320,355
+P,11,White,-186,106
+P,12,White,330,340
+P,13,White,-155,500
+P,14,White,-195,375
+P,14,White,-122,752
+P,14,White,-55,847
+P,15,White,65,660
+P,Spawn Hall,White,199,455
+P,Cubert (Named),DarkRed,-62,174

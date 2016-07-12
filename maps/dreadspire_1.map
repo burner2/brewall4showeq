@@ -1,0 +1,55 @@
+dreadspire_1.map,dreadspire_1.tmp,0,0
+P,to The Hive,Red,1350,-1031
+P,Zone out,Red,41,2775
+P,TRAP: Fake Rug,Yellow,47,3454
+P,Secret doors,Yellow,307,2517
+P,Secret Door,Yellow,251,2647
+P,Fake wall,Yellow,-198,3071
+P,Fake Wall,Yellow,251,2647
+P,TRAP: Fake Rug,Yellow,31,3438
+P,Locked Secret Door,Yellow,307,2517
+P,Locked,Yellow,280,3013
+P,trap,Yellow,436,2955
+P,trap,Yellow,403,3007
+P,trap,Yellow,349,3007
+P,trap,Yellow,439,3059
+P,Alitattis the Drinker,White,17,3294
+P,Mr. Smotts,White,22,2745
+P,Melion Pell,White,30,3434
+P,Gaelic the Small,White,1299,-1022
+P,Chattering Bonewalker,White,523,-1281
+P,The Batspire,White,13,-886
+P,Arturos,White,-6,-909
+P,Master Vule the Silent Tear,White,0,149
+P,100 Eyes,White,36,22
+P,Spider,White,-668,2861
+P,Wolf,White,-568,2857
+P,Orc,White,-658,3011
+P,Mayong,White,-695,2933
+P,viewpoint of marking object,White,199,-1004
+P,blue source,White,175,-1011
+P,8feets red source,White,177,-1004
+P,10feets yellow source,White,182,-992
+P,giddeon,White,197,-1040
+P,Merci's Feeding Pit (KOS),White,165,3283
+P,The Laboratory (KOS),White,203,3022
+P,Ball Room,White,0,2947
+P,Dining Room,White,0,3486
+P,Library,White,-252,2986
+P,Door to Bridges,White,0,2476
+P,Door to Northern Spire,White,0,-139
+P,Raid: Demiplane of Blood (Click Statue),Yellow,1300,-1041
+P,Althea,White,242,2634
+P,Brenda,White,361,2577
+P,Christine,White,296,2550
+P,Sister's Handbag (chest after Sister event),Yellow,370,2560
+P,Ariahn Teller,White,-230,2986
+P,To South Spire,Yellow,-190,2689
+P,Vivisector (Named),DarkRed,187,3027
+P,Gronk One Eye (Named),DarkRed,17,3126
+P,The Restless One (Named),DarkRed,167,2948
+P,Doorman,White,-11,3423
+P,Locked Door - Key=Memories Lost from Doorman,Yellow,-79,0
+P,Irrissa the Seer,White,64,56
+P,Door to South Tower,Yellow,-56,-1
+P,To Main Castle,Yellow,-84,-1

@@ -1,0 +1,25 @@
+charasis_1.map,charasis_1.tmp,0,0
+P,Zone In,Red,0,0
+P,to The Overthere,Red,-95,-765
+P,to The Overthere,Yellow,-726,3
+P,Portal to Entrance,Yellow,1,-13
+P,Portal to Entrance,Yellow,685,-76
+P,Locked Door,Yellow,0,163
+P,Trap (Fall Through Floor),Yellow,20,-374
+P,Fake Stairs,Yellow,-68,0
+P,Fake Wall (one-way),Yellow,-206,-23
+P,Trap (Fall Through Floor),Yellow,-285,34
+P,One Way Ledge,Yellow,451,-145
+P,Trap (Fall Through Floor),Yellow,228,-134
+P,Trap (Fall Through Floor),Yellow,5,276
+P,Portal to Entrance,Yellow,10,640
+P,One Way Wall,Yellow,-109,197
+P,Ghost of Mera,DarkCyan,120,540
+P,The Crypt Keeper (Named),DarkRed,13,548
+P,One Way Wall,Yellow,194,110
+P,The Skeleton Sepulcher (Named),DarkRed,-12,-327
+P,GS: Dismembered Thumb,Blue,621,-143
+P,GS: Blood Encrusted Gloves,Blue,-574,322
+P,GS: Coin Depicting,Blue,-81,-566
+P,Gandan Tailfist (Quest),DarkCyan,-16,283
+P,Ghost of Mera (RNG 1.5),White,122,547

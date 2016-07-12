@@ -1,0 +1,312 @@
+neighborhood_1.map,neighborhood_1.tmp,0,0
+P,to Guild Lobby,Red,2034,-3005
+P,Travel to Other Neighborhoods,Blue,1952,-2908
+P,Brewing,Magenta,2005,-2770
+P,Jewelcrafting,Magenta,2012,-2756
+P,Fletching,Magenta,2026,-2743
+P,Forge,Magenta,2043,-2738
+P,Tailoring,Magenta,2078,-2745
+P,Baking,Magenta,2113,-2787
+P,Pottery Wheel,Magenta,2115,-2805
+P,Poisoncrafting,Magenta,2116,-2819
+P,Alchemy,Magenta,2104,-2836
+P,Market,Red,2048,-2658
+P,Brimming,Yellow,377,-769
+P,Vanward,White,2049,-548
+P,Park,DarkGreen,1536,1247
+P,Guild,DarkRed,1677,2615
+P,Terminus,CadetBlue,38,2763
+P,Betwixt,Magenta,-215,722
+P,Park,Green,2062,-546
+P,Guild,DarkRed,2054,-536
+P,Terminus,CadetBlue,2042,-538
+P,Betwixt,Magenta,2037,-549
+P,Brimming,Yellow,2044,-560
+P,Market,Red,2057,-557
+P,Vanward,White,1548,1251
+P,Guild,DarkRed,1538,1259
+P,Terminus,CadetBlue,1526,1255
+P,Betwixt,Magenta,1524,1242
+P,Brimming,Yellow,1534,1234
+P,Market,Red,1546,1239
+P,Vanward,White,1688,2608
+P,Park,Green,1688,2621
+P,Terminus,CadetBlue,1678,2628
+P,Betwixt,Magenta,1666,2623
+P,Brimming,Yellow,1666,2609
+P,Market,Red,1677,2603
+P,Vanward,White,48,2756
+P,Park,Green,49,2768
+P,Guild,DarkRed,38,2776
+P,Betwixt,Magenta,28,2770
+P,Brimming,Yellow,26,2758
+P,Market,Red,36,2751
+P,Vanward,White,-204,715
+P,Park,Green,-203,727
+P,Guild,DarkRed,-213,735
+P,Terminus,CadetBlue,-224,729
+P,Brimming,Yellow,-226,717
+P,Market,Red,-215,710
+P,Vanward,White,387,-776
+P,Park,Green,388,-763
+P,Guild,DarkRed,378,-756
+P,Terminus,CadetBlue,367,-763
+P,Betwixt,Magenta,366,-775
+P,Market,Red,377,-781
+P,Brimming,Yellow,2060,-2662
+P,Vanward,White,2058,-2650
+P,Park,Green,2047,-2645
+P,Guild,DarkRed,2037,-2653
+P,Terminus,CadetBlue,2038,-2665
+P,Betwixt,Magenta,2050,-2670
+P,101 Market Street,Red,1947,-2695
+P,104 Market Street,Red,2311,-2715
+P,103 Market Street,Red,2278,-2516
+P,102 Market Street,Red,2066,-2335
+P,101 Market Heights,Red,2594,-2672
+P,102 Market Heights,Red,2439,-1977
+P,103 Market Heights,Red,1941,-1614
+P,101 Brimming Way,Yellow,1333,-2092
+P,102 Brimming Way,Yellow,976,-1141
+P,113 Brimming Way,Yellow,744,-1525
+P,112 Brimming Way,Yellow,767,-1465
+P,103 Brimming Way,Yellow,811,-1069
+P,104 Brimming Way,Yellow,808,-746
+P,105 Brimming Way,Yellow,717,-588
+P,106 Brimming Way,Yellow,653,-396
+P,108 Brimming Way,Yellow,407,-134
+P,107 Brimming Way,Yellow,373,181
+P,105 Brimming Heights,Yellow,-19,-364
+P,106 Brimming Heights,Yellow,-230,-448
+P,107 Brimming Heights,Yellow,-199,-704
+P,108 Brimming Heights,Yellow,-199,-796
+P,104 Brimming Heights,Yellow,133,-680
+P,103 Brimming Heights,Yellow,169,-906
+P,102 Brimming Heights,Yellow,315,-1088
+P,111 Brimming Way,Yellow,383,-856
+P,110 Brimming Way,Yellow,317,-567
+P,109 Brimming Way,Yellow,281,-372
+P,101 Brimming Heights,Yellow,340,-1405
+P,101 Vanward Street,White,1702,-968
+P,103 Vanward Street,White,1907,-997
+P,104 Vanward Street,White,2098,-952
+P,105 Vanward Street,White,2294,-1064
+P,102 Vanward Street,White,1695,-826
+P,108 Vanward Street,White,1805,-449
+P,106 Vanward Street,White,2106,-786
+P,107 Vanward Street,White,2166,-557
+P,109 Vanward Street,White,2169,-349
+P,111 Vanward Street,White,2168,-129
+P,113 Vanward Street,White,2066,49
+P,112 Vanward Street,White,2112,-244
+P,110 Vanward Street,White,2105,-452
+P,114 Vanward Street,White,1833,-225
+P,116 Vanward Street,White,1647,-185
+P,101 Vanward Heights,White,1371,-205
+P,101 Park Circle,DarkGreen,1829,1244
+P,102 Park Circle,DarkGreen,2006,1184
+P,103 Park Circle,DarkGreen,2173,1173
+P,104 Park Circle,DarkGreen,2155,1361
+P,105 Park Circle,DarkGreen,2044,1504
+P,106 Park Circle,DarkGreen,1867,1542
+P,107 Park Circle,DarkGreen,1668,1535
+P,108 Park Circle,DarkGreen,1475,1533
+P,105 Guild Way,DarkRed,1960,2520
+P,104 Guild Way,DarkRed,1817,2703
+P,101 Guild Way,DarkRed,2104,2905
+P,102 Guild Way,DarkRed,1840,2894
+P,103 Guild Way,DarkRed,1614,2847
+P,101 Terminus Street,CadetBlue,348,2876
+P,102 Terminus Street,CadetBlue,126,2876
+P,103 Terminus Street,CadetBlue,-106,2877
+P,104 Terminus Street,CadetBlue,-394,2886
+P,106 Terminus Heights,CadetBlue,-596,3097
+P,105 Terminus Street,CadetBlue,-385,2806
+P,107 Terminus Street,CadetBlue,-188,2479
+P,Betwixt Avenue,Magenta,-119,1343
+P,104 Betwixt Avenue,Magenta,-15,1321
+P,102 Betwixt Avenue,Magenta,-139,962
+P,107 Betwixt Avenue,Magenta,-485,782
+P,106 Betwixt Avenue,Magenta,-490,1040
+P,105 Betwixt Avenue,Magenta,-486,1300
+P,101 Betwixt Avenue,Magenta,112,853
+P,200 Brimming Way (Guild),Yellow,578,-1880
+P,200 Vanward Heights (Guild),White,3353,-715
+P,200 Terminus Heights (Guild),CadetBlue,-1134,2418
+P,200 Guild Way (Guild),DarkRed,2763,2632
+P,101 Market Street,Red,1947,-2695
+P,104 Market Street,Red,2311,-2715
+P,103 Market Street,Red,2278,-2516
+P,102 Market Street,Red,2066,-2335
+P,101 Market Heights,Red,2594,-2672
+P,102 Market Heights,Red,2439,-1977
+P,103 Market Heights,Red,1941,-1614
+P,101 Brimming Way,Yellow,1333,-2092
+P,102 Brimming Way,Yellow,976,-1141
+P,113 Brimming Way,Yellow,744,-1525
+P,112 Brimming Way,Yellow,767,-1465
+P,103 Brimming Way,Yellow,811,-1069
+P,104 Brimming Way,Yellow,808,-746
+P,105 Brimming Way,Yellow,717,-588
+P,106 Brimming Way,Yellow,653,-396
+P,108 Brimming Way,Yellow,407,-134
+P,107 Brimming Way,Yellow,373,181
+P,105 Brimming Heights,Yellow,-19,-364
+P,106 Brimming Heights,Yellow,-230,-448
+P,107 Brimming Heights,Yellow,-199,-704
+P,108 Brimming Heights,Yellow,-199,-796
+P,104 Brimming Heights,Yellow,133,-680
+P,103 Brimming Heights,Yellow,169,-906
+P,102 Brimming Heights,Yellow,315,-1088
+P,111 Brimming Way,Yellow,383,-856
+P,110 Brimming Way,Yellow,317,-567
+P,109 Brimming Way,Yellow,281,-372
+P,101 Brimming Heights,Yellow,340,-1405
+P,101 Vanward Street,White,1702,-968
+P,103 Vanward Street,White,1907,-997
+P,104 Vanward Street,White,2098,-952
+P,105 Vanward Street,White,2294,-1064
+P,102 Vanward Street,White,1695,-826
+P,108 Vanward Street,White,1805,-449
+P,106 Vanward Street,White,2106,-786
+P,107 Vanward Street,White,2166,-557
+P,109 Vanward Street,White,2169,-349
+P,111 Vanward Street,White,2168,-129
+P,113 Vanward Street,White,2066,49
+P,112 Vanward Street,White,2112,-244
+P,110 Vanward Street,White,2105,-452
+P,114 Vanward Street,White,1833,-225
+P,116 Vanward Street,White,1647,-185
+P,101 Vanward Heights,White,1371,-205
+P,101 Park Circle,DarkGreen,1829,1244
+P,102 Park Circle,DarkGreen,2006,1184
+P,103 Park Circle,DarkGreen,2173,1173
+P,104 Park Circle,DarkGreen,2155,1361
+P,105 Park Circle,DarkGreen,2044,1504
+P,106 Park Circle,DarkGreen,1867,1542
+P,107 Park Circle,DarkGreen,1668,1535
+P,108 Park Circle,DarkGreen,1475,1533
+P,105 Guild Way,DarkRed,1960,2520
+P,104 Guild Way,DarkRed,1817,2703
+P,101 Guild Way,DarkRed,2104,2905
+P,102 Guild Way,DarkRed,1840,2894
+P,103 Guild Way,DarkRed,1614,2847
+P,101 Terminus Street,CadetBlue,348,2876
+P,102 Terminus Street,CadetBlue,126,2876
+P,103 Terminus Street,CadetBlue,-106,2877
+P,104 Terminus Street,CadetBlue,-394,2886
+P,106 Terminus Heights,CadetBlue,-596,3097
+P,105 Terminus Street,CadetBlue,-385,2806
+P,107 Terminus Street,CadetBlue,-188,2479
+P,Betwixt Avenue,Magenta,-119,1343
+P,104 Betwixt Avenue,Magenta,-15,1321
+P,102 Betwixt Avenue,Magenta,-139,962
+P,107 Betwixt Avenue,Magenta,-485,782
+P,106 Betwixt Avenue,Magenta,-490,1040
+P,105 Betwixt Avenue,Magenta,-486,1300
+P,101 Betwixt Avenue,Magenta,112,853
+P,@,Blue,61,1910
+P,@,Blue,93,1148
+P,@,Blue,-576,2527
+P,@,Blue,546,3015
+P,@,Blue,1419,1042
+P,@,Blue,2453,-273
+P,@,Blue,-315,3086
+P,@,Blue,-594,2591
+P,@,Blue,592,-1183
+P,@,Blue,488,-512
+P,@,Blue,52,1447
+P,@,Blue,-684,3266
+P,@,Blue,-299,-1003
+P,@,Blue,1181,-1004
+P,@,Blue,273,716
+P,@,Blue,501,3090
+P,@,Blue,705,2861
+P,@,Blue,147,1019
+P,@,Blue,1420,2928
+P,@,Blue,1284,-758
+P,@,Blue,10,-16
+P,@,Blue,1587,-764
+P,@,Blue,65,1949
+P,@,Blue,-126,2195
+P,@,Blue,1005,3060
+P,@,Blue,1087,2955
+P,@,Blue,1340,2976
+P,@,Blue,-137,2105
+P,@,Blue,1490,1903
+P,@,Blue,1527,3134
+P,@,Blue,1527,1414
+P,@,Blue,-166,2595
+P,@,Blue,1711,-1857
+P,@,Blue,1714,-1179
+P,@,Blue,1739,-1587
+P,@,Blue,1782,2760
+P,@,Blue,1809,1355
+P,@,Blue,1878,-674
+P,@,Blue,1936,2315
+P,@,Blue,1964,1339
+P,@,Blue,1971,-1236
+P,@,Blue,2028,-1837
+P,@,Blue,2136,929
+P,@,Blue,2191,-2153
+P,@,Blue,2272,-935
+P,@,Blue,2338,2903
+P,@,Blue,2439,-1356
+P,@,Blue,-269,909
+P,@,Blue,28,1456
+P,@,Blue,-510,3001
+P,@,Blue,-512,2555
+P,@,Blue,-519,639
+P,@,Blue,-58,2687
+P,@,Blue,608,2861
+P,@,Blue,-727,1499
+P,@,Blue,735,2727
+P,@,Blue,942,-1539
+P,@,Blue,997,2855
+P,@,Blue,1444,559
+P,@,Blue,-166,2627
+P,@,Blue,1160,-1426
+P,@,Blue,2013,-2743
+P,@,Blue,2280,1024
+P,@,Blue,2093,1613
+P,@,Blue,2196,2600
+P,@,Blue,2140,3126
+P,@,Blue,2048,2960
+P,@,Blue,2183,927
+P,@,Blue,1949,-833
+P,@,Blue,2220,-2134
+P,@,Blue,2063,-2882
+P,@,Blue,1805,101
+P,@,Blue,1920,1800
+P,@,Blue,747,-387
+P,@,Blue,251,1701
+P,@,Blue,-420,2207
+P,@,Blue,1008,2897
+P,@,Blue,2064,1763
+P,@,Blue,883,-1048
+P,@,Blue,1389,1145
+P,@,Blue,1878,-1849
+P,@,Blue,1533,1112
+P,@,Blue,69,85
+P,@,Blue,-306,2190
+P,@,Blue,-581,2185
+P,@,Blue,1635,-2271
+P,@,Blue,1797,2116
+P,@,Blue,886,-1084
+P,@,Blue,2396,-2206
+P,@,Blue,2313,69
+P,@,Blue,1882,207
+P,@,Blue,884,-1022
+P,@,Blue,2130,-1766
+P,@,Blue,178,1107
+P,@,Blue,-507,2946
+P,@,Blue,1372,-1931
+P,@,Blue,1383,468
+P,@,Blue,-239,717
+P,@,Blue,2193,-2502
+P,@,Blue,1233,-1534
+P,@,Blue,2246,-2151
+P,@,Blue,168,40
+P,@,Blue,893,2934
+P,@,Blue,1538,1791
+P,@,Blue,-76,124

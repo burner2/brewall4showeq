@@ -1,0 +1,147 @@
+shadowhaven_1.map,shadowhaven_1.tmp,0,0
+P,to Echo Caverns,Red,194,-639
+P,to Echo Caverns,Red,1625,-1100
+P,to The Bazaar,Red,732,293
+P,to Echo Caverns,Red,1781,355
+P,to Paludal Caverns,Red,-75,81
+P,to Paludal Caverns,Red,320,-1065
+P,to The Nexus,Red,1511,168
+P,Succor,Red,190,-982
+P,Druid/Ranger/Beastlord Guild,White,1300,174
+P,Oven,Magenta,1625,-349
+P,Loom,Magenta,1410,264
+P,Oven,Magenta,1076,257
+P,Loom,Magenta,61,126
+P,Forge,Magenta,144,123
+P,Brew Barrel,Magenta,313,-18
+P,Brew Barrel,Magenta,404,71
+P,Kiln,Magenta,1404,-387
+P,Pottery Wheel,Magenta,1363,-402
+P,Forge,Magenta,1310,26
+P,Forge,Magenta,1456,-333
+P,Teridat (Banker),Gold,-138,172
+P,Faloensar (Banker),Gold,-116,172
+P,Pansak (Banker),Gold,132,1344
+P,Heralow (Banker),Gold,132,1325
+P,Geologo (Banker),Gold,1845,-585
+P,Raldilikis (Banker),Gold,1845,-596
+P,Tarson (Banker),Gold,1813,145
+P,Nansin (Soulbinder),White,1637,236
+P,Steaon (Alchemy),DarkGreen,1573,267
+P,Fantoal (Baking),DarkGreen,1073,251
+P,Bolrodo (Merchant),DarkGreen,1627,-335
+P,Oxon (Pottery),DarkGreen,628,189
+P,Kolburn (Potions),DarkGreen,628,172
+P,Rowl (Tailor),DarkGreen,634,146
+P,Eastring (Tailor),DarkGreen,651,146
+P,Garn (Jewelry),DarkGreen,645,-11
+P,Adinson (Jewelry),DarkGreen,629,-12
+P,Talor (Merchant),DarkGreen,755,31
+P,Verte (Merchant),DarkGreen,755,18
+P,Nelm (Armor),DarkGreen,1432,308
+P,Jostan (Merchant),DarkGreen,1203,391
+P,Eustace (Merchant),DarkGreen,1191,444
+P,Ralshalod (Merchant),DarkGreen,1023,172
+P,Barotolen (Merchant),DarkGreen,1050,173
+P,Junun (Fletcher),DarkGreen,961,260
+P,Tabart (Fletcher),DarkGreen,978,260
+P,Bilkel (Merchant),DarkGreen,907,195
+P,Vicars (Merchant),DarkGreen,845,-23
+P,Lesia (Brewer),DarkGreen,330,157
+P,Lander (Brewer),DarkGreen,327,167
+P,Kytley (Tailor),DarkGreen,350,134
+P,Wawker (Tailor),DarkGreen,376,156
+P,Bargain (Merchant),DarkGreen,289,219
+P,Sedaitam (Merchant),DarkGreen,-83,331
+P,Gelson (Tailor),DarkGreen,-47,154
+P,Eiles (Baking),DarkGreen,-47,163
+P,Bailes (Weapons),DarkGreen,-19,184
+P,Akeral (Baking),DarkGreen,-19,204
+P,Ferusal (Poison),DarkGreen,-38,209
+P,Nicoela (Merchant),DarkGreen,100,151
+P,Jolan (Smith),DarkGreen,178,137
+P,Edcar (Smith),DarkGreen,136,123
+P,Kelly (Smith),DarkGreen,181,166
+P,Robert (Smith),DarkGreen,122,180
+P,Rusty (Smith),DarkGreen,121,196
+P,Sneathe (Merchant),DarkGreen,10,-66
+P,Sanderson (Merchant),DarkGreen,35,-78
+P,Narsam (Weapons),DarkGreen,198,-99
+P,Meribeth (Armor),DarkGreen,164,-99
+P,Volan (Armor),DarkGreen,108,-99
+P,Talbard (Armor),DarkGreen,128,-99
+P,Galorano (Spells),DarkGreen,-290,50
+P,Tirisa (Spells),DarkGreen,-350,2
+P,Arnthus (Spells),DarkGreen,-350,13
+P,Paloney (Spells),DarkGreen,-350,23
+P,Galoran (Smith),DarkGreen,-316,31
+P,Daekos (Spells),DarkGreen,-277,30
+P,Delf (Merchant),DarkGreen,-245,28
+P,Woolf (Merchant),DarkGreen,343,-24
+P,Alviva (Merchant),DarkGreen,427,30
+P,Horiel (Merchant),DarkGreen,112,1366
+P,Galomas (Merchant),DarkGreen,65,1491
+P,Eriska (Jewelry),DarkGreen,44,1175
+P,Aeksola (Jewelry),DarkGreen,44,1188
+P,Healian (Merchant),DarkGreen,-1,1213
+P,Siroisl (Spells),DarkGreen,-569,1252
+P,Goesl (Spells),DarkGreen,-550,1376
+P,Desaliar (Spells),DarkGreen,-517,1438
+P,Mark (Spells),DarkGreen,-295,1187
+P,Loensa (Merchant),DarkGreen,-294,1175
+P,Isibat (Merchant),DarkGreen,-238,1150
+P,Fitonas (Merchant),DarkGreen,-238,1213
+P,Henriala (Merchant),DarkGreen,1791,237
+P,Engie (Merchant),DarkGreen,1807,82
+P,Bestive (Merchant),DarkGreen,1805,57
+P,Firehand (Smith),DarkGreen,1304,38
+P,Jiovfer (Smith),DarkGreen,1255,12
+P,Granger (Merchant),DarkGreen,1173,13
+P,Marchap (Tinkering),DarkGreen,1015,113
+P,Polson (Alchemy),DarkGreen,1192,138
+P,Lemsen (Alchemy),DarkGreen,1207,121
+P,Callowolf (Alchemy),DarkGreen,1228,121
+P,Teriesl (Spells),DarkGreen,1249,320
+P,Sarlos (Spells),DarkGreen,1212,316
+P,Feirus (Spells),DarkGreen,1211,280
+P,Ealerel (Spells),DarkGreen,1250,279
+P,Daveiro (Spells),DarkGreen,1312,316
+P,Frewin (Spells),DarkGreen,1210,98
+P,Jales (Spells),DarkGreen,1250,100
+P,Horsal (Spells),DarkGreen,1248,62
+P,Herol (Spells),DarkGreen,1209,61
+P,Hejsua (Spells),DarkGreen,1272,60
+P,Narmase (Fletcher),DarkGreen,1200,249
+P,Sroj (Fletcher),DarkGreen,1187,225
+P,Daliea (Baking),DarkGreen,1704,56
+P,Tersie (Mechant),DarkGreen,1684,55
+P,Bronklad (Smith),DarkGreen,1441,-333
+P,Hobolor (Tailor),DarkGreen,1417,-391
+P,Wayke (Pottery),DarkGreen,1382,-420
+P,Dinoli (Merchant),DarkGreen,1393,-431
+P,Hintol (Merchant),DarkGreen,1384,-441
+P,River (Pottery),DarkGreen,1373,-430
+P,Zimloro (Potions),DarkGreen,1423,-419
+P,Falina (Merchant),DarkGreen,1623,-386
+P,Toddor (Armor),DarkGreen,1679,-363
+P,Melina (Armor),DarkGreen,1669,-371
+P,Talida (Merchant),DarkGreen,1749,-434
+P,Ronlotar (Armor),DarkGreen,1806,-539
+P,Joe (Baker),DarkGreen,1783,-667
+P,Xerolop (Merchant),DarkGreen,1712,-712
+P,Pilop (Jewelry),DarkGreen,1571,-716
+P,Robbolo (Weapons),DarkGreen,1576,-774
+P,Farinth (GM Paladin),Grey,-424,-76
+P,Jarson (GM Cleric),Grey,-424,-38
+P,Sesamin (GM Cleric),Grey,-331,-16
+P,Mandark (GM Paladin),Grey,-332,-3
+P,Yargin (GM Ranger),Grey,1293,323
+P,Sarith (GM Beastlord),Grey,1293,60
+P,Tarson (GM Shaman),Grey,1230,59
+P,Plow (GM Druid),Grey,1230,323
+P,Garon (GM Warrior),Grey,-102,-355
+P,Halorik (GM Monk),Grey,-128,1000
+P,Palomidiar (GM Enchanter),Grey,-495,1376
+P,Lamukas (GM Wizard),Grey,-125,1406
+P,Loewnsaz (GM Magician),Grey,-319,1318
+P,Frinzel (GM Rogue),Grey,1704,278

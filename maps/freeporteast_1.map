@@ -1,0 +1,216 @@
+freeporteast_1.map,freeporteast_1.tmp,0,0
+P,to Freeport Sewers,Red,-506,-11
+P,to West Freeport,Red,318,32
+P,to Northern Desert of Ro,Red,-170,-1685
+P,to West Freeport,Red,402,-658
+P,to Freeport Sewers,Red,-1736,-1861
+P,to Devastation,Red,-722,830
+P,Gord's Smithy,White,533,-1590
+P,Armor by Ikthar,White,162,-46
+P,Freeport Militia House,White,570,-1052
+P,Hallards Resales,White,0,-960
+P,Port Authority,White,-631,-440
+P,Grub 'n Grog Tavern,White,-821,131
+P,Ocean of Tears Translocator,Red,-836,-611
+P,Freeport Inn,White,-203,-940
+P,Chops -n- Hops,White,364,-1269
+P,Trader's Holiday,White,122,262
+P,Velithe & Bardo's Imported Goods,White,-267,207
+P,Soulbinder,Yellow,-20,-1238
+P,Priest of Discord,Red,-718,-1262
+P,Bard Guild,White,-880,-1031
+P,Arena (PvP),Yellow,-628,449
+P,Customs House,Yellow,-648,-422
+P,Bauhb's Bauht,White,-914,-393
+P,Gratitude,White,-1378,-164
+P,Seafare's Roost,White,-1133,-1112
+P,Evil Guildmaster Area,White,343,-1405
+P,a Town Crier,White,-10,87
+P,Queluran Keletia (Merchant),DarkGreen,-651,-195
+P,Joshua,White,-471,-35
+P,Innkeep Paggie (Merchant),DarkGreen,-445,-39
+P,Innkeep Rastle (General),DarkGreen,-429,-40
+P,Jheron Felkis,White,-441,4
+P,Jyle Windshot,White,-493,-2
+P,Tarn Bearcrusher,White,-323,198
+P,Umuhyon Cilius (Merchant),DarkGreen,-434,216
+P,Umenon Clotius (Merchant),DarkGreen,-292,135
+P,Malon Lailius (Merchant),DarkGreen,-233,445
+P,Ethruncil Draitia (Merchant),DarkGreen,-201,443
+P,Eroncil Rellyus (Merchant),DarkGreen,199,292
+P,Palrion Enieus (Merchant),DarkGreen,198,262
+P,Tislan (Smithing),DarkGreen,122,185
+P,Cloud Alemaker,DarkGreen,79,196
+P,Sun Alemaker,DarkGreen,105,216
+P,River Alemaker,DarkGreen,83,196
+P,Farista Eniatia (Merchant),DarkGreen,118,96
+P,Filrion Dokius (Merchant),DarkGreen,268,51
+P,Valentin Firehear (Smithing),DarkGreen,141,-12
+P,Issilyn Ristan (Smithing),DarkGreen,133,-32
+P,Sir Ranlon,White,143,-49
+P,Ikthar Fireheart,White,168,-81
+P,Kif (Smithing),DarkGreen,183,-66
+P,Daria Smith (Smithing),DarkGreen,206,-60
+P,Eyan Rehius,White,375,-153
+P,Palusiel Drobius,White,373,-181
+P,Sanhan Tanner,DarkGreen,98,-310
+P,Sissin Tanner,DarkGreen,73,-308
+P,Winlar Tanner,DarkGreen,39,-322
+P,Winsa Tanner,DarkGreen,40,-341
+P,Firrion Roweus (Merchant),DarkGreen,-149,-522
+P,Malusuard Blolus (Merchant),DarkGreen,-192,-485
+P,Ethrrian Drowius (Merchant),DarkGreen,-289,-439
+P,Eyunon Storius (Merchant),DarkGreen,-306,-441
+P,Farihon Nastuius (Merchant),DarkGreen,-319,-440
+P,Moe Wilborn (Missions),DarkCyan,-358,-353
+P,Gemcrafter Anuk ((Melee Augs),DarkGreen,-258,-391
+P,Quanan Mahius (Merchant),DarkGreen,-509,-785
+P,Palunrion Shyeitia (Merchant),DarkGreen,-403,-912
+P,Ennarn Shotius (Merchant),DarkGreen,-402,-942
+P,Kargek Redblade,White,-382,-1307
+P,Wenden Blackhamm,White,-360,-1305
+P,Gartrog Smitehammer,White,-368,-1320
+P,a Town Crier,White,-232,-1251
+P,Eywen Nalous (Merchant),DarkGreen,-113,-1285
+P,Eyon Swouglus (Merchant),DarkGreen,-56,-1336
+P,Ealyson Roloius (Merchant),DarkGreen,-34,-1382
+P,Malloy the Songbird,White,-83,-1540
+P,Exterminator Larkey,White,-242,-1465
+P,Ralfson Gerositan (General),DarkGreen,-418,-1670
+P,Drona Whystlethin (Brewing),DarkGreen,-542,-1083
+P,Jynsa Smithson (Pottery),DarkGreen,-551,-1188
+P,Trithalis Leredar (Tailoring),DarkGreen,-871,-1308
+P,Linadian (Armor),DarkGreen,-862,-1347
+P,Boomba the Big,White,-833,-1463
+P,Exterminator Qalantir,White,-505,-1429
+P,Lindie Rains (Parcels),Green,-569,-1435
+P,Lythe Songbird,White,-800,-1145
+P,Marus Kemson (GM Bard),Grey,-893,-1145
+P,Felisity Starbright,White,-942,-1082
+P,Sten Harnak (GM Bard),Grey,-892,-1030
+P,Artisan Vivian Selgan (Tradeskill Quests),DarkCyan,-865,-1011
+P,Jekel Enhied (Bard),DarkGreen,-828,-1029
+P,Caskin Marsheart (GM Bard),Grey,-912,-1089
+P,Nashia Lanseb (GM Bard),Grey,-866,-1129
+P,Ton Twostring,White,-865,-1098
+P,Inisis Trimpet (Bard Songs),DarkGreen,-845,-1087
+P,Lysric Loresinger (Bard Songs),DarkGreen,-826,-1096
+P,Winoyn (Pottery),DarkGreen,-743,-1592
+P,Gurb Smithson (Pottery),DarkGreen,-806,-1363
+P,Innkeep Nasumi,White,-221,-932
+P,Innkeep Hunter,White,-238,-931
+P,Grendig,White,-165,-972
+P,Canlan Talespinner,White,382,-1293
+P,Palatos Kynarn,White,377,-1255
+P,Nesin Tapper (General),DarkGreen,368,-1239
+P,Xon Stonehands (Tribute),Gold,281,-1224
+P,Jerra Renlock,White,130,-1313
+P,Quan Nektogo,White,132,-1331
+P,Ainla Yurimar,White,234,-1322
+P,Harkin Duskfoot,White,214,-1334
+P,Celanie Xtoria,White,433,-1327
+P,Netuk Phenzon,White,440,-1312
+P,Tagus Wunne (Shadow Knight Spells),DarkGreen,413,-1256
+P,Prasen Rusgor (Weapons),DarkGreen,426,-1258
+P,Sermio Capret (Shadow Knight Spells),DarkGreen,440,-1254
+P,Saxarivza Zaxun,White,583,-1272
+P,Gren Frikniller,White,612,-1285
+P,Elisi Nasin,White,620,-1289
+P,Vesagar Nekio,White,627,-1434
+P,Brek Stolrus,White,631,-1448
+P,Hundle Quatvel (Necromancer Spells),DarkGreen,629,-1459
+P,Miocaei Herlsas,White,634,-1479
+P,Nexvok Thirod,White,607,-1572
+P,Heneva Jexsped,White,557,-1572
+P,Konious Eranon,White,596,-1504
+P,Venox Tarkog,White,570,-1528
+P,Klan Smith,White,500,-1617
+P,Gunex Eklar (GM Shadow Knight),Grey,415,-1573
+P,Mika Fugas (Necromancer Supplies),DarkGreen,382,-1572
+P,Peku Croxe (Necromancer Supplies),DarkGreen,350,-1592
+P,Zenita D`Rin,White,335,-1547
+P,Tovan Tenlah (GM Rogue),Grey,379,-1510
+P,Zhem Xecia (GM Cleric),Grey,365,-1516
+P,Marv Orilis (GM Necromancer),Grey,303,-1480
+P,Jak Sindin,White,294,-1465
+P,Pietro Zarn (GM Shadow Knight),Grey,290,-1462
+P,Beur Tenlah (GM Rogue),Grey,356,-1420
+P,Nestral TGaza (GM Rogue),Grey,402,-1424
+P,Rin Distlemor,White,397,-1442
+P,Banor Raglesin,White,456,-1485
+P,Mheno Raveus,White,469,-1484
+P,Thuzin Kaver,White,546,-1470
+P,Xelha Nevagon,White,546,-1411
+P,Opal Darkbriar,White,577,-1368
+P,Itzia Vunpe,White,558,-1354
+P,Verona Rankin,White,510,-1356
+P,Captain Hazran,White,398,-1123
+P,Queloslista Samautia (Merchant),DarkGreen,420,-762
+P,Ardrian Zhusius (Merchant),DarkGreen,419,-729
+P,Malalon Morotia (Merchant),DarkGreen,280,-840
+P,a Town Crier,White,225,-683
+P,Cartographer Piri,White,-696,-423
+P,a grubby rogue,White,-651,-475
+P,Jasmine Yiur,White,-618,-472
+P,Tanlok Harson (Fishing),DarkGreen,-620,-357
+P,Iseba Gargurd (Fishing),DarkGreen,-625,-290
+P,Ilanon Untitia,White,-660,-287
+P,Tarker Gargurd (Fishing),DarkGreen,-655,-320
+P,Eriel Skelytia (Merchant),DarkGreen,-826,-734
+P,Ennenmol Tienyius,White,-1036,-1020
+P,a Town Crier,White,-1008,-1001
+P,Branis Noolright,White,-1111,-1086
+P,Talym Shoontar,White,-1088,-1107
+P,Bronto Thudfoot,White,-1119,-1117
+P,Lenka Stoutheart,White,-1123,-1132
+P,Gregor Nasin (General),DarkGreen,-1124,-1146
+P,Henna Treghost (General),DarkGreen,-1137,-1132
+P,Lunce Nasin (General),DarkGreen,-1139,-1168
+P,Translocator Setikan,Red,-836,-612
+P,Olunea Miltin,White,-946,-591
+P,Ilyon Olditia (General),DarkGreen,-818,-99
+P,Brunar Rankin,White,-1023,-82
+P,Ilrion Schaecius (Merchant),DarkGreen,-919,121
+P,Ennrion Striesius,White,-873,176
+P,a Town Crier,White,-856,162
+P,Runthar,White,-808,113
+P,Malonwen Kaleius (Merchant),DarkGreen,-837,144
+P,Fabrian,White,-789,134
+P,Jaleel Hoglomp (General),DarkGreen,-783,164
+P,Winda Lylil,White,-794,176
+P,Jyve's Bluff,White,-2222,-639
+P,Driana Poxsbourne,White,-1120,777
+P,Toxdil (Poison),DarkGreen,-420,905
+P,Trancil Clearpond,White,-306,718
+P,Monia Oakstone,White,-306,685
+P,Qukibue Stisys,White,-555,651
+P,Ilenarn Ghaeaus,White,-526,653
+P,Ennuard Yetaius,White,-530,692
+P,Larn Brugal,White,-528,713
+P,Brina Foxtripper,White,-583,713
+P,Quareran Borius,White,-586,691
+P,Eyasie Dyrius,White,-584,670
+P,Joffin Sinclay (Tasks),DarkCyan,-681,714
+P,Plagus Ladeson,White,-740,688
+P,Vun Winstone (Tasks),DarkCyan,-708,651
+P,Cain Darkmoore,White,-672,654
+P,Tyeg Envil,White,-707,692
+P,Freeport Arena,Red,-629,446
+P,Brew Barrel,Magenta,-1160,-1111
+P,Brew Barrel,Magenta,-814,159
+P,Oven,Magenta,-775,200
+P,Bait Masterson,White,-1912,634
+P,Moe Wilborn (Missions),DarkCyan,-1129,-1053
+P,Oven,Magenta,342,-1215
+P,Leather and Hide,White,124,-329
+P,Tavern,White,-169,448
+P,Myrissa (Merchant),DarkGreen,-185,220
+P,Monita (Merchant),DarkGreen,-182,201
+P,Coalition of Tradefolk,White,-368,-371
+P,Theater of the Tranquil,White,-586,-1048
+P,Pottery Wheel,Magenta,-859,-1271
+P,Bouncer Claude (Puppet Show),Green,-869,-1403
+P,Kiln,Magenta,-659,-1485
+P,Pottery Wheel,Magenta,-660,-1517
+P,Kiln,Magenta,-812,-1327
+P,Pottery Wheel,Magenta,-473,-1235

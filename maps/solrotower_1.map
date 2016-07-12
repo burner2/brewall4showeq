@@ -1,0 +1,23 @@
+solrotower_1.map,solrotower_1.tmp,0,0
+P,from Plane of Tranquility,Red,-2,-2908
+P,to The Protector of Dresolik,Yellow,-1295,-642
+P,to Rizlona,Yellow,-366,300
+P,to Solusek Ro,Yellow,0,-854
+P,to Arlyxir,Yellow,367,300
+P,to Jiva,Yellow,211,671
+P,return,Yellow,1835,-314
+P,to Xuzl,Yellow,1295,-642
+P,return,Yellow,215,1478
+P,return,Yellow,-943,2663
+P,return,Yellow,-2094,58
+P,return,Yellow,1570,1944
+P,Neerin,DarkRed,79,-2219
+P,Guardian,White,696,1512
+P,Guardian,White,700,1651
+P,Guardian,White,829,1652
+P,Guardian,White,836,1519
+P,Rizlona,DarkRed,-1104,2383
+P,Jiva,DarkRed,-2253,-257
+P,Arlyxir,DarkRed,1725,1685
+P,Xuzl,DarkRed,1834,-714
+P,Solusek Ro,DarkRed,0,-1600

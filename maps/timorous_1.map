@@ -1,0 +1,32 @@
+timorous_1.map,timorous_1.tmp,0,0
+M,line,White,2,-1788,-11604,100,-1788,-11604,100
+P,to South Ro (Translocator Jorbin),Red,3621,5866
+P,to Overthere (Translocator Jorbin),Red,3620,5861
+P,from Firiona Vie,Red,-2094,-2153
+P,from The Overthere,Red,200,-5500
+P,from The Overthere,Red,1183,-1756
+P,to Firiona Vie,Red,-2494,677
+P,to/from Butcherblock,Red,-6800,3580
+P,to/from South Ro,Red,5360,7586
+P,Succor Point,Red,2194,-5392
+P,Mircus (Bar),DarkGreen,-4337,-5197
+P,Seloris (Merchant),DarkGreen,-3439,-4868
+P,Portik (Bar),DarkGreen,-2276,-11594
+P,Iksar Master (GM Monk),Grey,2795,-5064
+P,Dock,White,-3226,-4489
+P,Ogre Raiders,White,2783,-1293
+P,Dock,White,3566,5873
+P,Golra Island,White,-5366,-8975
+P,Oasis in a Deserted Sea,White,-1788,-11604
+P,to Halas,Red,4324,-12309
+P,to East Freeport,Red,4367,-12307
+P,to Cablis West,Red,4424,-12309
+P,to South Kaladim,Red,4426,-12299
+P,to Ak'Anon,Red,4430,-12256
+P,to Rivervale,Red,4430,-12220
+P,to Gukta,Red,4415,-12201
+P,to Oggok,Red,4373,-12200
+P,to Erudin,Red,4328,-12197
+P,to Neriak Commons,Red,4309,-12202
+P,to Greater Faydark,Red,4309,-12250
+P,to North Felwithe,Red,4308,-12295

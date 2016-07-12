@@ -1,0 +1,117 @@
+kattacastrum_1.map,kattacastrum_1.tmp,0,0
+P,from Buried Sea,Red,5,-101
+P,to Sanctum,Red,-698,-987
+P,to Zhisza,Red,2569,4196
+P,to Thalassius,Red,-4727,-1094
+P,to Jewel of Atiiki,Red,2572,-4197
+P,kattakastrum - Katta Castrum,Green,-3000,4800
+P,to Main Temple,Yellow,746,-571
+P,to Library,Yellow,651,-1157
+P,Bank,Gold,-146,92
+P,Portal,Yellow,-126,72
+P,Portal,Yellow,126,73
+P,Portal,Yellow,651,-1164
+P,Teleport Pad,White,4803,-1152
+P,Teleport Pad,White,-1153,4800
+P,Teleport Pad,White,-1890,4562
+P,Teleport Pad,White,-2580,4210
+P,Teleport Pad,White,1889,4562
+P,Teleport Pad,White,1153,4803
+P,Teleport Pad,White,-4211,2578
+P,Teleport Pad,White,-4562,1891
+P,Teleport Pad,White,-4801,1151
+P,Teleport Pad,White,1527,-4697
+P,Teleport Pad,White,-3207,-3757
+P,Teleport Pad,White,-4563,-1890
+P,Teleport Pad,White,-4211,-2581
+P,Teleport Pad,White,-1891,-4564
+P,Teleport Pad,White,-698,-987
+P,Teleport Pad,White,-2582,-4209
+P,Teleport Pad,White,1314,931
+P,Teleport Pad,White,-1873,2196
+P,Teleport Pad,White,-2429,-1094
+P,Teleport Pad,White,4923,-387
+P,Teleport Pad,White,4562,-1889
+P,Teleport Pad,White,1890,-4562
+P,Teleport Pad,White,2031,2031
+P,Teleport Pad,White,2022,-2054
+P,Teleport Pad,White,4561,1889
+P,Teleport Pad,White,4801,1153
+P,Teleport Pad,White,4923,388
+P,Outer Azia Zeku,Yellow,2536,-4154
+P,Inner Azia,Yellow,-2345,-1080
+P,Inner Dena,Yellow,2034,-2039
+P,Outer Azia Azau,Yellow,1520,-4683
+P,Outer Azia,Yellow,1882,-4542
+P,Outer Heda Azua,Yellow,-1890,-4564
+P,Outer Heda,Yellow,-2582,-4208
+P,Outer Heda Zeku,Yellow,-3206,-3756
+P,Sanctum Beza,Yellow,1313,931
+P,Inner Caza,Yellow,-1873,2195
+P,Inner Beza,Yellow,2031,2031
+P,Outer Geza Azau,Yellow,-4210,-2581
+P,Outer Geza,Yellow,-4562,-1890
+P,Outer Geaz Zeku,Yellow,-4714,-1106
+P,Outer Fana Azau,Yellow,-4800,1151
+P,Outer Fana,Yellow,-4562,1891
+P,Outer Fana Zeku,Yellow,-4198,2566
+P,Outer Ena Azau,Yellow,-2569,4191
+P,Outer Ena,Yellow,-1880,4537
+P,Outer Ena Zeku,Yellow,-1150,4780
+P,Outer Beza Azau,Yellow,4923,-386
+P,Outer Beza,Yellow,4802,-1152
+P,Outer Beza Zeku,Yellow,4561,-1889
+P,Outer Caza Azau,Yellow,4561,1889
+P,Outer Caza,Yellow,4801,1153
+P,Outer Caza Zeku,Yellow,4922,387
+P,Outer Dena Azau,Yellow,1152,4802
+P,Outer Dena,Yellow,1889,4562
+P,Outer Dena Zeku,Yellow,2577,4205
+P,GS: Kedge Habitation (Ground Spawn),Blue,880,-1067
+P,GS: Prexus' Wrath (Ground Spawn),Blue,422,-1266
+P,elite chain armor,DarkGreen,-196,-1038
+P,elite plate armor,DarkGreen,-211,-1108
+P,Plate Armor,DarkGreen,-529,-1130
+P,elite leather armor,DarkGreen,-214,-941
+P,elite cloth armor,DarkGreen,-202,-824
+P,elite caster spells,DarkGreen,-215,-753
+P,elite fighter tomes,DarkGreen,-219,-732
+P,elite hybrid spells,DarkGreen,-218,-662
+P,elite priest spells,DarkGreen,-299,-577
+P,General Goods,DarkGreen,-382,-757
+P,Combine Goods,DarkGreen,-363,-736
+P,Chain Armor,DarkGreen,-529,-1108
+P,Leather Armor,DarkGreen,-540,-1033
+P,Priest Spells,DarkGreen,-550,-922
+P,Fighter Tomes,DarkGreen,-536,-859
+P,Cloth Armor,DarkGreen,-549,-949
+P,Elite Energeians,DarkGreen,-459,-568
+P,Elite Weapons,DarkGreen,-511,-580
+P,Energeians,DarkGreen,-553,-594
+P,Caster Spells,DarkGreen,-623,-647
+P,Hybrid Spells,DarkGreen,-622,-736
+P,Tuzart Relenfold (group tasks),DarkCyan,21,-7
+P,Head Attendant Haestus (Tasks),DarkCyan,0,11
+P,Researcher Chlearpa (Tasks),DarkCyan,-54,-97
+P,Vizier Zio (Tasks),DarkCyan,-2141,-2172
+P,Arcanist Variszh (Quests),DarkCyan,-2341,-2173
+P,Scribe Oastalides (Tasks),DarkCyan,-92,-64
+P,Portalmaster Temuratis (Tasks),DarkCyan,-2121,-2221
+P,Chief Librarian Lars (Tasks),DarkCyan,675,-1199
+P,tactician sodut (silyssar access),DarkCyan,104,-564
+P,alchemist hesia (solo tasks),DarkCyan,66,84
+P,archarcanist pintanus (solo tasks),DarkCyan,101,-113
+P,arcanist thalian (solo tasks),DarkCyan,-94,-120
+P,Sorcerer Hearah (timed solo task),DarkCyan,-106,-54
+P,Sorcerer Xycl (solo tasks),DarkCyan,-105,2
+P,Seer Ichamedes (tasks),DarkCyan,-78,74
+P,Simus the Doomsayer (tasks),DarkCyan,-12,46
+P,Flora Venloe (group tasks),DarkCyan,659,651
+P,Guard captain Pavrus (solo tasks),DarkCyan,-66,-600
+P,Structural Engineer Dewas,White,-124,-532
+P,Sergeant Zetren,White,46,-598
+P,Archarcanist Kirstmycl,White,-606,-868
+P,a tatty beggar,White,531,-565
+P,a scruffy beggar,White,197,-621
+P,The Town Crier,White,636,-906
+P,Head Mage Antius,White,-92,-101

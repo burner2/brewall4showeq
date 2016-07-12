@@ -1,0 +1,81 @@
+sseru_1.map,sseru_1.tmp,0,0
+P,to Dawnshroud Peaks,Red,-236,1420
+P,to Marus Seru,Red,379,1152
+P,Succor,Red,-232,1166
+P,port in,Yellow,-83,-582
+P,port out,Yellow,-85,-581
+P,port out,Yellow,-232,-284
+P,port stone to maze,Yellow,-232,-579
+P,port in,Yellow,-377,-284
+P,Seru Room Port,Yellow,-79,-573
+P,Hidden Door,Yellow,-290,-504
+P,Brew Barrel,White,330,808
+P,Kiln,Magenta,-917,-680
+P,Forge,Magenta,544,-985
+P,Forge,Magenta,546,136
+P,Brew Barrel,Magenta,-797,804
+P,Pottery Wheel,Magenta,-990,-664
+P,Brew Barrel,Magenta,995,-666
+P,Oven,Magenta,129,304
+P,Brew Barrel,Magenta,-1475,-665
+P,Adren (Bank),Gold,1017,92
+P,Falak (Bank),Gold,-1480,94
+P,Melda (Smith),DarkGreen,1026,-118
+P,Gaston (Merchant),DarkGreen,1026,-50
+P,Wulan (Smith),DarkGreen,1029,10
+P,Brewing Merchants,DarkGreen,1042,-823
+P,Brewing Merchants,DarkGreen,-1486,-822
+P,Mal (Merchant),DarkGreen,-1488,-113
+P,Laltar (Merchant),DarkGreen,-1490,-18
+P,Pawil (Baking),DarkGreen,150,285
+P,Brewing Merchants,DarkGreen,186,836
+P,Taldris (Merchant),DarkGreen,189,281
+P,Smithing Merchants,DarkGreen,-941,82
+P,Nyrick (Merchant),DarkGreen,-944,-21
+P,Pottery Merchants,DarkGreen,-945,-737
+P,Laren (Tailor),DarkGreen,-947,-134
+P,Qearin (Merchant),DarkGreen,-947,-828
+P,Asotha (Jewelry),DarkGreen,-947,-936
+P,Adelia (Spells),DarkGreen,218,-766
+P,Fraeg (Smith),DarkGreen,276,283
+P,Argrur (Spells),DarkGreen,332,-734
+P,Smithing Merchants,DarkGreen,476,-912
+P,Fareye (Fletcher),DarkGreen,482,-124
+P,Luki (Merchant),DarkGreen,482,-749
+P,Cobaen (Merchant),DarkGreen,483,-8
+P,Smithing Merchants,DarkGreen,484,80
+P,Tala (Merchant),DarkGreen,485,-719
+P,Vassa (Merchant),DarkGreen,485,-806
+P,Milner (Baking),DarkGreen,-534,283
+P,Adelia (Spells),DarkGreen,-535,-995
+P,Glendra (Spells),DarkGreen,-574,-725
+P,Faber (Smith),DarkGreen,59,282
+P,Brewing Merchants,DarkGreen,-609,830
+P,Vrogar (Spells),DarkGreen,61,-71
+P,Falwin (Merchant),DarkGreen,-646,279
+P,Diendra (Spells),DarkGreen,70,132
+P,Boloth (Smith),DarkGreen,-746,283
+P,Grelan (Spells),DarkGreen,-798,-131
+P,Praesertum Matpa,DarkRed,-673,-842
+P,Praeserum Rhugol,DarkRed,-695,1
+P,Praesertum Vantorus,DarkRed,207,-871
+P,Praesertum Bikun,DarkRed,239,0
+P,Wassein (GM Wizard),Grey,109,-958
+P,Falak (GM Warrior),Grey,88,-758
+P,Martolin (GM Ranger),Grey,-808,-69
+P,Kezzlek (GM Rogue),Grey,152,-64
+P,Taol (GM Monk),Grey,-669,-94
+P,Salnu (GM Warrior),Grey,-670,4
+P,Aealin (GM Monk),Grey,218,-766
+P,Naillo (GM Rogue),Grey,69,-922
+P,Glipo (GM Rogue),Grey,-792,-733
+P,Truthtaker (GM Cleric),Grey,278,-750
+P,Goshul (GM Warrior),Grey,64,118
+P,Balakaz (GM Cleric),Grey,-536,-63
+P,Yusi (GM Enchanter),Grey,-538,-698
+P,Valar (GM Warrior),Grey,-542,-881
+P,Banael (GM Wizard),Grey,-592,-726
+P,Gastir (GM Paladin),Grey,-555,-1005
+P,Ralla (GM Paladin),Grey,285,-818
+P,Emon (GM Ranger),Grey,358,-702
+P,Yalkin (GM Wizard),Grey,-522,-138

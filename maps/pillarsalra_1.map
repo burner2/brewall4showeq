@@ -1,0 +1,156 @@
+pillarsalra_1.map,pillarsalra_1.tmp,0,0
+P,to Resplendent Temple,Red,267,-1595
+P,to Windsong,Red,-1,19
+P,Il'Nendale of Erion (Quests),DarkCyan,348,615
+P,Crest Pattern,DarkRed,459,674
+P,Erion Ulrich (Archon of Light),DarkRed,467,797
+P,Light Infuser,DarkRed,486,706
+P,Daeas (Quests),DarkCyan,577,-1069
+P,GS: Flute,Blue,611,-985
+P,Il'Rator of Anriella (Quests),DarkCyan,615,-343
+P,Tabbard Pattern,DarkRed,726,-376
+P,Anriella Fawnwalker (Caretaker of Nature),DarkRed,798,-461
+P,Nature Infuser,DarkRed,814,-364
+P,Wri'Vok,DarkRed,843,-409
+P,Kir'Tak,DarkRed,846,-420
+P,an apparition (roam),DarkRed,98,-44
+P,The Shrine of Alra,White,0,-2
+P,Havra (Quests),DarkCyan,-226,-883
+P,Wrakt of Fal'Kaa (Quests),DarkCyan,-361,-633
+P,Fal'Kaa Karathra (Sovereign of Shadow),DarkRed,-461,-785
+P,Shade Infuser,White,-518,-726
+P,Valdik,DarkRed,-518,-714
+P,GS: Fal'Kaa Crest Pattern,Blue,-547,-783
+P,Selulian of Melretia (Quests),DarkCyan,-633,356
+P,Aeyen (Quests),DarkCyan,-635,330
+P,Melretia Relward (arbiter of the Arcane),DarkRed,-788,458
+P,Arcane Infuser,White,-838,406
+P,to middle,White,124,769
+P,to middle,DarkBlue,-762,108
+P,blue-purple,DarkBlue,-882,116
+P,blue-white,DarkBlue,-541,706
+P,white-blue,White,153,873
+P,white-green,White,704,541
+P,to middle,DarkGreen,769,-116
+P,green-white,DarkGreen,882,-134
+P,green-purple,DarkGreen,562,-690
+P,purple-blue,Purple,-690,-557
+P,purple-green,Purple,-126,-878
+P,to middle,Purple,-136,-765
+P,Valdik,DarkRed,-518,-714
+P,Overseer Hral,DarkRed,-389,-720
+P,Surez the Inconsolable,DarkRed,-539,-789
+P,Librarian Shad'Lyr,DarkRed,-509,-778
+P,Scholar Yr'Tev,DarkRed,-482,-780
+P,Fal'Kaa's knowledgekeeper,DarkRed,-436,-832
+P,Fal'Kaa's Shadowward,DarkRed,-413,-727
+P,Fal'Kaa's Shadowward,DarkRed,-434,-715
+P,Natureward Kolthei (Quests),DarkCyan,533,-925
+P,Pathkeeper Mlyra,DarkRed,423,-934
+P,Pathkeeper Nidran,DarkRed,386,-988
+P,Sayrloc the Amused,DarkRed,739,-451
+P,Natureward Sar'Lyn,DarkRed,687,-344
+P,Natureward En'Srel,DarkRed,641,-421
+P,Natureguard Ak'Rinor,DarkRed,676,-406
+P,Natureguard Va'Eilnar,DarkRed,688,-382
+P,Shadowward Votrak,DarkRed,-376,-676
+P,Shadowward Dre'Ryk,DarkRed,-409,-657
+P,Shadeweaver Grakxt,DarkRed,-342,-666
+P,Shadeweaver Welk,DarkRed,-419,-623
+P,Shadowward E'Trik,DarkRed,-454,-713
+P,Verdantguard E-Rael,DarkRed,736,-406
+P,Overseer En'Laetav,DarkRed,722,-421
+P,Scholar Jindral,DarkRed,802,-420
+P,Librarian Ridal,DarkRed,728,-509
+P,Anriella's knowledgekeeper,DarkRed,811,-425
+P,Anriella's Lifeward,DarkRed,727,-434
+P,Anriella's Lifeward,DarkRed,739,-410
+P,Lightward Tyvallion,DarkRed,405,669
+P,Illuminator Kralinvitol,DarkRed,428,632
+P,Illuminator Rillarvinard,DarkRed,343,682
+P,Overseer Helvaniard,DarkRed,389,796
+P,Scholar Wrenivald,DarkRed,366,790
+P,Yrenvotal the Peaceful,DarkRed,493,717
+P,Erion's knowledgekeeper,DarkRed,428,712
+P,Erion's Lightward,DarkRed,429,732
+P,Arcanaward Laretian,DarkRed,-690,389
+P,Arcanaward Arytival,DarkRed,-677,409
+P,Constructor Evluoe,DarkRed,-639,428
+P,Constructor Hyral,DarkRed,-687,346
+P,Arcanaward Vydrell,DarkRed,-759,379
+P,Overseer Oreliad,DarkRed,-786,506
+P,Scholar Seronvall,DarkRed,-784,468
+P,Librarian Elinaer,DarkRed,-838,444
+P,Aransir the Irate,DarkRed,-726,369
+P,Melretia's knowledgekeeper,DarkRed,-727,464
+P,Melretia's Arcward,DarkRed,-738,413
+P,Melretia's Arcward,DarkRed,-723,438
+P,DOWN,Yellow,-695,414
+P,LANDING,Yellow,-703,402
+P,LANDING,Yellow,-757,441
+P,DOWN,Yellow,-773,432
+P,UP,Yellow,-741,450
+P,LANDING,Yellow,-875,463
+P,UP,Yellow,-864,456
+P,LANDING,Yellow,-796,471
+P,DOWN,Yellow,-802,460
+P,LANDING,Yellow,-763,442
+P,UP,Yellow,-751,439
+P,LANDING,Yellow,-837,495
+P,DOWN,Yellow,-843,485
+P,LANDING,Yellow,-671,399
+P,UP,Yellow,-677,388
+P,DOWN,Yellow,-748,435
+P,UP,Yellow,-768,446
+P,DOWN,Yellow,-738,430
+P,UP,Yellow,-778,453
+P,DOWN,Yellow,-741,431
+P,UP,Yellow,-772,452
+P,DOWN,Yellow,-460,-890
+P,UP,Yellow,-457,-892
+P,DOWN,Yellow,-435,-762
+P,UP,Yellow,-432,-626
+P,DOWN,Yellow,-428,-633
+P,UP,Yellow,-451,-749
+P,DOWN,Yellow,-438,-761
+P,UP,Yellow,-412,-681
+P,DOWN,Yellow,-397,-691
+P,UP,Yellow,-452,-747
+P,DOWN,Yellow,-438,-761
+P,UP,Yellow,-399,-693
+P,DOWN,Yellow,-398,-694
+P,UP,Yellow,764,-441
+P,DOWN,Yellow,765,-441
+P,UP,Yellow,887,-464
+P,DOWN,Yellow,888,-462
+P,UP,Yellow,641,-420
+P,DOWN,Yellow,642,-419
+P,UP,Yellow,756,-456
+P,DOWN,Yellow,756,-455
+P,UP,Yellow,773,-426
+P,DOWN,Yellow,773,-426
+P,UP,Yellow,756,-457
+P,DOWN,Yellow,757,-456
+P,UP,Yellow,701,-404
+P,DOWN,Yellow,701,-405
+P,UP,Yellow,441,760
+P,DOWN,Yellow,442,756
+P,UP,Yellow,464,877
+P,DOWN,Yellow,461,879
+P,UP,Yellow,406,693
+P,DOWN,Yellow,439,754
+P,UP / DOWN,Yellow,442,755
+P,UP / DOWN,Yellow,441,758
+P,UP,Yellow,443,756
+P,DOWN,Yellow,434,714
+P,UP,Yellow,421,634
+P,DOWN,Yellow,403,688
+P,Assistant Shadowward Mysth (Light Faction Quest),DarkCyan,-252,-613
+P,H'Tathca,White,-104,-1182
+P,Upper Library,White,743,-435
+P,an unusual creature (Hunter),DarkRed,150,-1692
+P,The Ut'len Deathkeeper (Hunter),DarkRed,297,298
+P,Tonmek the Mind-Drainer (Hunter),DarkRed,-645,421
+P,Cysivir the Constructor (Hunter),DarkRed,487,818
+P,Ivrikdal the Infuser (HunterRoam),DarkRed,-468,-820
+P,a worn sentry stone,White,976,-320

@@ -1,0 +1,28 @@
+txevu_1.map,txevu_1.tmp,0,0
+P,to Qvic (click statue),Red,-344,-15
+P,Instance: Tacvi (Talk to Hamari),Yellow,-331,16
+P,Prison 2,White,1475,200
+P,Prison 1,White,1475,-200
+P,High Priest Room,White,-700,320
+P,ZMTZ Prep Area,White,1150,-1
+P,High Priest Locked Door,Yellow,70,-580
+P,restless wraith,White,-720,346
+P,Inquisitor Lliev Kinth (Named),DarkRed,1527,-24
+P,Inquisitor Chaik Tansk (Named),DarkRed,1527,24
+P,Zun`Muram Tkarish Zyk (Named),DarkRed,1505,0
+P,Ikaav Nysf Lleiv (Named),DarkRed,991,0
+P,Ukun Bloodfeaster (Named),DarkRed,270,446
+P,Ixt Quall Nalnn (Named),DarkRed,797,88
+P,Ixt Kial Ivesi (Named),DarkRed,797,-88
+P,Ancient Craigbeast Matriarch (Named),DarkRed,627,0
+P,Mastruq Champion (Named),DarkRed,-38,7
+P,Aneuk Rilst Uskst (Named),DarkRed,166,-86
+P,Aneuk Nyrt Ymosa (Named),DarkRed,166,86
+P,Vrex Invoker Raziya (Named),DarkRed,-283,-905
+P,Vrex Invoker Kashka (Named),DarkRed,-575,-910
+P,Vrex Invoker Jahzar (Named),DarkRed,-1063,-961
+P,Vrex Invoker Malik (Named),DarkRed,-778,-490
+P,Vrex Invoker Akello (Named),DarkRed,-527,-81
+P,Vrex Stonemaster Lorasa (Named),DarkRed,936,19
+P,Vrex Stonemaster Veset (Named),DarkRed,963,0
+P,Vrex Stonemaster Hateg (Named),DarkRed,933,-18

@@ -1,0 +1,100 @@
+cabeast_1.map,cabeast_1.tmp,0,0
+P,to Field of Bone,Red,-610,1164
+P,to Swamp of No Hope,Red,-641,-73
+P,to Western Cabilis,Red,286,-69
+P,to Field of Bone,Red,-414,1355
+P,to Swamp of No Hope,Red,-444,-261
+P,Priest of Discord,Red,-360,792
+P,Forge,Magenta,-315,219
+P,Brew Barrel,Magenta,-12,685
+P,Oven,Magenta,147,522
+P,Pottery Wheel,Magenta,-195,232
+P,Iksar Forge,Magenta,-25,-531
+P,Kiln,Magenta,-218,259
+P,Forge,Magenta,-34,-377
+P,Loom,Magenta,-83,49
+P,Rakra (Bank),Gold,64,707
+P,Margar (Bank),Gold,45,708
+P,Rastok (Weapons),DarkGreen,11,348
+P,Ixmid (Gems),DarkGreen,156,659
+P,Oxmod (Jewelry),DarkGreen,157,638
+P,Gritchit (Baking),DarkGreen,158,593
+P,Sweetzie (Baking),DarkGreen,159,551
+P,Unlar (Baking),DarkGreen,162,531
+P,Xzatik (Smith),DarkGreen,21,-541
+P,Bashdyn (Armor),DarkGreen,37,-527
+P,Chronicler (Merchant),DarkGreen,48,351
+P,Zern (Smith),DarkGreen,8,-512
+P,Gristle (Spells),DarkGreen,-105,1000
+P,Ephmir (Merchant),DarkGreen,-127,129
+P,Scaznar (Armor),DarkGreen,-133,53
+P,Zreezas (Spells),DarkGreen,-189,1026
+P,Tempar (Armor),DarkGreen,-19,142
+P,Dytar (Merchant),DarkGreen,-197,51
+P,Foxmyr (Merchant),DarkGreen,-201,123
+P,Hoga (Pottery),DarkGreen,-202,253
+P,Krikt (Smith),DarkGreen,-202,-437
+P,Gogon (Fletcher),DarkGreen,-204,143
+P,Spell Merchants,DarkGreen,-214,1032
+P,Mugruk (Armor),DarkGreen,-215,386
+P,Vyx (Smith),DarkGreen,-215,-427
+P,Kobl (Merchant),DarkGreen,-242,-596
+P,Prixal (Brewer),DarkGreen,-26,678
+P,Grazik (Spells),DarkGreen,-260,1126
+P,Rygle (Spells),DarkGreen,-266,1000
+P,Grots (Pottery),DarkGreen,-275,239
+P,Ygen (Weapons),DarkGreen,-28,-620
+P,Nalgoz (Smith),White,-290,239
+P,Vessel (Spells),DarkGreen,-293,1149
+P,Wartol (Tailor),DarkGreen,-298,93
+P,Toren (Smith),DarkGreen,-303,190
+P,Granthrow (Weapons),DarkGreen,-311,-508
+P,Grugl (Weapons),DarkGreen,-33,-432
+P,Sass (Brewer),DarkGreen,-38,667
+P,Wyga (Merchant),DarkGreen,-469,450
+P,Qag (Weapons),DarkGreen,-7,-525
+P,Phlegyl (Armor),DarkGreen,-7,-639
+P,Vednir (Merchant),DarkGreen,-8,58
+P,Stitch (Tailor),DarkGreen,-9,128
+P,Vizaroth (Spells),DarkGreen,-97,1134
+P,Raska (GM Monk),Grey,122,387
+P,Vygan (GM Warrior),Grey,30,-455
+P,Niska (GM Monk),Grey,37,458
+P,Dal (GM Warrior),Grey,-124,-248
+P,Eator (GM Warrior),Grey,-125,-658
+P,Qyzar (GM Shadow Knight),Grey,-151,1005
+P,Korzin (GM Shadow Knight),Grey,-173,1062
+P,Xog (GM Shadow Knight),Grey,-189,1014
+P,Dexl (GM Shaman),Grey,-47,1081
+P,Bain (GM Monk),Grey,-51,285
+P,Granix (GM Shaman),Grey,-195,783
+P,Vek (GM Shaman),Grey,-189,1044
+P,Glox (GM Monk),Grey,-30,420
+P,Vuzx (GM Beastlord),Grey,-205,1059
+P,Kyg (GM Warrior),Grey,-317,-425
+P,Shakar (Soulbinder),White,-27,720
+P,Hierophant Vjen (Tribute),Green,-51,982
+P,Tink N Babble,White,-85,887
+P,Klok (General),DarkGreen,-88,906
+P,Brewing Barrel,Magenta,-72,906
+P,The Block,White,64,635
+P,The Court of Pain,White,-107,429
+P,Klok (Parcels),Green,-431,529
+P,1-Way (Down),Yellow,-975,581
+P,Pagnar (Tailoring),DarkGreen,-304,974
+P,Klok Virem (Mercenary),DarkGreen,-241,1006
+P,Teleport Up,Yellow,-164,1014
+P,Locked Door (pickable),Yellow,-121,1072
+P,Master Glox,White,-208,1117
+P,Himart Kichith,White,-432,1033
+P,Broken Bridge Room,White,-521,862
+P,One Way Wall (to North),Yellow,-638,858
+P,One Way Wall (to East),Yellow,-659,581
+P,One Way Wall (to South),Yellow,-651,487
+P,One Way Wall (to East),Yellow,-715,525
+P,Vessel Drozlin,White,-819,578
+P,One Way Wall (to South),Yellow,-836,543
+P,One Way Wall ((to East),Yellow,-925,581
+P,False Wall,Yellow,-1003,575
+P,One Way Wall (to South),Yellow,-1001,613
+P,The Depths Behind the Scaled Mystics,White,-472,917

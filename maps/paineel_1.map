@@ -1,0 +1,55 @@
+paineel_1.map,paineel_1.tmp,0,0
+P,to The Hole,Red,-942,605
+P,to The Warrens,Red,-880,726
+P,to Toxullia Forest,Red,121,863
+P,Succor,Red,200,800
+P,Arena (PvP),Yellow,432,763
+P,Teleport,Yellow,755,884
+P,Teleport,Yellow,526,908
+P,Teleport,Yellow,658,1067
+P,Kiln,Magenta,811,977
+P,Brew Barrel,Magenta,788,953
+P,Sewing Kit,Magenta,698,970
+P,Forge,Magenta,416,929
+P,Erud Forge,Magenta,426,922
+P,Marsa (Bank),Gold,716,1035
+P,Nadara (Bank),Gold,740,1035
+P,Dannis (Jewelry),DarkGreen,722,1092
+P,Spell Vendors,DarkGreen,433,1124
+P,Jenkin (Weapons),DarkGreen,439,1097
+P,Kervis (Armor),DarkGreen,428,1097
+P,Ishen (Armor),DarkGreen,523,1212
+P,Tenralus (Weapons),DarkGreen,523,1225
+P,Spell Vendors,DarkGreen,553,1220
+P,Spell Vendors,DarkGreen,805,671
+P,Spell Vendors,DarkGreen,884,691
+P,Linnleu (Merchant),DarkGreen,820,734
+P,Keletha (Merchant),DarkGreen,861,734
+P,Taralani (Bar),DarkGreen,805,934
+P,Rallia (Merchant),DarkGreen,770,941
+P,Geomar (Merchant),DarkGreen,757,953
+P,Yvonne (Alchemy),DarkGreen,753,944
+P,Henly (Parcels),Green,703,987
+P,Pottery Vendors,DarkGreen,812,987
+P,Gorng (Baking),DarkGreen,636,984
+P,Iva (Baking),DarkGreen,649,970
+P,Pardas (Tailor),DarkGreen,678,944
+P,Winnia (Armor),DarkGreen,689,944
+P,Faratain (Armor),DarkGreen,421,938
+P,Spell Vendors,DarkGreen,455,891
+P,Tomas (Soulbinder),White,563,665
+P,Sern (GM Cleric),Grey,522,1130
+P,Mandaril (GM Shadow Knight),Grey,456,849
+P,Coriante (GM Necromancer),Grey,839,797
+P,Shwara (GM Necromancer),Grey,840,762
+P,The Abattoir,White,839,860
+P,SK guild,White,457,870
+P,Outside door,White,464,629
+P,Library,White,867,1149
+P,Cleric Guild,White,503,1151
+P,Darkglom Palace,White,685,1273
+P,Athenaeum Necromantia,White,866,1146
+P,Trap (no way out of this area),Yellow,2,567
+P,to The Hole (fall down),Red,233,775
+P,Rock Door (Key or Picklock),Yellow,-889,576
+P,City Door (click rock on ground to open),Yellow,448,637

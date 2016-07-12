@@ -1,0 +1,61 @@
+bazaar_1.map,bazaar_1.tmp,0,0
+P,to Plane of Knowledge,Red,-435,0
+P,to Shadowhaven,Red,-384,-103
+P,to Shadowhaven,Red,-385,-198
+P,to Nexus,Red,260,-115
+P,Teleporter to Blue Griffin Hall,Yellow,304,84
+P,Teleporter to Red Dragon Hall,Yellow,-50,340
+P,Teleporter to Hub,Yellow,925,1175
+P,Teleporter to Hub,Yellow,-887,1177
+P,Loom,Magenta,-205,131
+P,Pottery Wheel,Magenta,-203,174
+P,Oven,Magenta,-308,214
+P,Forge,Magenta,-427,172
+P,Forge,Magenta,-426,135
+P,Forge,Magenta,133,-255
+P,Kiln,Magenta,-329,215
+P,Kiln,Magenta,-213,158
+P,Bankers,Gold,944,1104
+P,Bankers,Gold,-865,1104
+P,Diamond,White,-688,1425
+P,Sapphire,White,-488,1250
+P,Emerald,White,-621,928
+P,Ruby,White,-773,746
+P,Platinum,White,-1050,851
+P,Gold,White,-1225,1001
+P,Silver,White,-1119,1283
+P,Copper,White,-970,1453
+P,Diamond,White,1120,1364
+P,Sapphire,White,1293,1210
+P,Emerald,White,1184,933
+P,Ruby,White,1037,760
+P,Platinum,White,758,865
+P,Gold,White,585,1016
+P,Silver,White,689,1295
+P,Copper,White,841,1464
+P,Hall of the Blue Griffin,White,956,1800
+P,Hall of the Red Dragon,White,-834,1800
+P,Stables,White,183,-298
+P,(BARTER),White,956,1800
+P,(BAZAAR),White,-834,1800
+P,Tontoal (General Supplies),DarkGreen,-79,16
+P,Gaelsori (Parcels),Green,-69,39
+P,Tekrama (Trader Satchels),DarkGreen,-42,70
+P,Dashelo (General Supplies),DarkGreen,7,74
+P,Halois (General Supplies),DarkGreen,40,65
+P,Alabaer (Smithing),DarkGreen,68,39
+P,Stinak (Smithing),DarkGreen,76,20
+P,Galarono (Smithing),DarkGreen,72,-21
+P,Domalisar (Smithing),DarkGreen,48,-66
+P,Dolsoj (Tailoring),DarkGreen,22,-72
+P,Worg Master Krellog,White,-44,-55
+P,Tindle Clinkworth (Shiny Roboboar Upgrades),White,-56,-46
+P,Caerlyna (Bag-to-Token),White,0,-23
+P,Sateal (Smithing),DarkGreen,21,-1
+P,Blocked Door,Yellow,-78,-248
+P,Stable Hand Kaye,DarkGreen,163,-370
+P,Stable Hand Brack,DarkGreen,193,-290
+P,Galic (Bridle Sellback),DarkGreen,233,-409
+P,Jolum (Spells),DarkGreen,-421,154
+P,Sylisa (Parcels),DarkGreen,-355,101
+P,Gliblixl (Smithing),DarkGreen,-214,155

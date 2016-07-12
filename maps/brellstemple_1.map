@@ -1,0 +1,29 @@
+brellstemple_1.map,brellstemple_1.tmp,0,0
+M,line,White,2,-86,489,170,-86,489,170
+P,to Kernagir,Red,-1,346
+P,to Brell's Rest,Red,0,-1
+P,Ball of Cosgrove,Blue,191,702
+P,Brell Serilis,White,2,596
+P,Sanctus Persant (Quest),DarkCyan,34,443
+P,Resnel (Quest),DarkCyan,12,666
+P,Gotonur (Quest),DarkCyan,-11,666
+P,Chamberlain Thoridian (Quest),DarkCyan,124,591
+P,Master Alchemist Vakros (Quest),DarkCyan,-31,448
+P,Purest Water,Blue,-207,705
+P,Combined Essences,Blue,0,802
+P,Brewing Barrel,Magenta,-102,590
+P,Oven,Magenta,-100,550
+P,Jewelry Making Table,Magenta,-86,489
+P,Fletching Table,Magenta,79,489
+P,Loom,Magenta,96,549
+P,Pottery Wheel,Magenta,104,590
+P,Kiln,Magenta,77,628
+P,Garden of Inspiration,White,278,897
+P,Garden of Reflection,White,-271,961
+P,Garden of Worship,White,-17,1173
+P,Pristine Creation (NamedRoam),DarkRed,-185,459
+P,Naglebrak (Named),DarkRed,487,554
+P,Rockslide (Named),DarkRed,-394,596
+P,Gigyn Brute (NamedRoam),DarkRed,-243,723
+P,Misshapen Formation (Named),DarkRed,-7,1227
+P,Pristine Creation (NamedRoam),DarkRed,204,319

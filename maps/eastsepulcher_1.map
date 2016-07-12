@@ -1,0 +1,107 @@
+eastsepulcher_1.map,eastsepulcher_1.tmp,0,0
+P,Tube colors match the level they lead to not the level they're on,White,1750,-2200
+P,Maze Legend,White,2500,-1000
+P,Entry Level Color,White,2500,-1200
+P,First Level Color,Purple,2500,-1400
+P,Second Level Color,Magenta,2500,-1600
+P,Third Level Color,Blue,2500,-1800
+P,Fourth Level Color,DarkRed,2500,-2000
+P,Path to Relic: 1A 4A 2A 3B 1B 2B,White,2500,0
+P,3C 1C 3D 2C 4B 2D 3E 1E 4D,White,2500,-150
+P,Succor Point,Red,-753,-140
+P,to Sepulcher West,Red,-583,27
+P,to Sepulcher West,Red,-93,1577
+P,to Sepulcher of Order,Red,-764,90
+P,to Sepulcher of Order,Red,-905,533
+P,to Sepulcher of Order,Red,-644,1374
+P,to Sepulcher of Order,Red,-904,891
+P,a thelasa ereth of Lunanyn (Quest),DarkCyan,-893,108
+P,a thelasa ereth of Illdaera (Quest),DarkCyan,-1284,261
+P,a thelasa ereth of Illdaera (Quest),DarkCyan,-737,1569
+P,a thelasa ereth of Lunanyn (Quest),DarkCyan,-1014,784
+P,The Relic of Ryken,White,-184,1897
+P,Relic of Fertility,White,-1166,-489
+P,Sentry Stone of Lunanyn,White,-873,-19
+P,Sentry Stone of Kolos,White,-1211,366
+P,Sentry Stone of Ryken,White,-646,1535
+P,Sentry Stone of Alra,White,-1090,892
+P,Rayneth,White,-1592,459
+P,The Relic of Kolos,White,-1766,227
+P,The Relic of Alra,White,-2032,885
+P,From 4D,White,-409,1788
+P,To 1A (Entrance),White,-409,1788
+P,From 4C,White,-369,1743
+P,To 1A (Entrance),White,-369,1743
+P,From 3B,Purple,-325,1882
+P,To 1B,Purple,-325,1882
+P,From 4D,White,-369,1788
+P,To 1A (Entrance),White,-369,1788
+P,To 4D,DarkRed,-263,1830
+P,From 1E,DarkRed,-263,1830
+P,To 1A (Entrance),White,-357,1851
+P,Room 4C,White,-214,1724
+P,Room 1E,White,-165,1922
+P,Room 1A,White,-431,1921
+P,Room 2A,White,-409,1829
+P,Room 4A,White,-429,1960
+P,Room 3A,White,-389,1780
+P,Room 1B,White,-326,1854
+P,Room 3B,White,-322,1826
+P,Room 2B,White,-258,1865
+P,Room 3C,White,-217,1928
+P,Room 3D,White,-346,1994
+P,Room 2C,White,-222,2018
+P,Room 1C,White,-312,1943
+P,Room 4B,White,-253,2001
+P,Room 3E,White,-314,1936
+P,Room 2E,White,-178,1736
+P,Room 2D,White,-317,1948
+P,Room 1D,White,-230,1720
+P,Room 4D,White,-279,1876
+P,From 2E,Blue,-232,1742
+P,To 3E,Blue,-232,1742
+P,To 2E,Magenta,-281,1745
+P,From 1D,Magenta,-281,1745
+P,From 3E,Purple,-323,1743
+P,To 1D,Purple,-323,1743
+P,To 4B,DarkRed,-219,2055
+P,From 2C,DarkRed,-219,2055
+P,From 1C,Blue,-321,2011
+P,To 3D,Blue,-321,2011
+P,From 3C,Purple,-233,1967
+P,To 1C,Purple,-233,1967
+P,To 3B,Blue,-277,1789
+P,From 2A,Blue,-277,1789
+P,From 1A,DarkRed,-372,2004
+P,To 4A,DarkRed,-372,2004
+P,From 4A,Magenta,-423,1879
+P,To 2A,Magenta,-423,1879
+P,To 3A,Blue,-369,1831
+P,From 4A,Blue,-369,1831
+P,To 1A (Entrance),White,-369,1831
+P,From 3A,White,-369,1831
+P,From 1B,Magenta,-325,1832
+P,To 2B,Magenta,-325,1832
+P,From 2B,Blue,-183,1874
+P,To 3C,Blue,-183,1874
+P,To 1A (Entrance),White,-190,1788
+P,From 3C,White,-190,1788
+P,To 2C,Magenta,-280,2010
+P,From 3D,Magenta,-280,2010
+P,From 2C,Blue,-182,1969
+P,To 3C,Blue,-182,1969
+P,From 4B,Magenta,-365,1918
+P,To 2D,Magenta,-365,1918
+P,From 2D,Blue,-276,1960
+P,To 3E,Blue,-276,1960
+P,From 3E,Purple,-143,1743
+P,To 1E,Purple,-143,1743
+P,To 4C,DarkRed,-143,1822
+P,From 1E,DarkRed,-143,1822
+P,The Vine Tender (HunterRoam),DarkRed,-1283,-369
+P,Master Illum (Hunter),DarkRed,-1602,909
+P,Shadow of the Domain (HunterRoam),DarkRed,-1628,107
+P,Word Lord (Hunter),DarkRed,-403,1967
+P,Ryken's Boast (Hunter),DarkRed,-246,1740
+P,Master Arcania (Hunter),DarkRed,-1802,912
+P,Kelkos the Berzerk (Hunter),DarkRed,-1799,237

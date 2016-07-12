@@ -1,0 +1,22 @@
+well_1.map,well_1.tmp,0,0
+P,from Grounds,Red,2,-2
+P,to Grounds (click),Red,-972,-388
+P,Fake wall (1 way),Yellow,-283,-63
+P,Pit,Yellow,-253,-52
+P,Pit,Yellow,-348,-66
+P,Fake wall,Yellow,-39,0
+P,Fake wall,Yellow,2,-44
+P,Fake wall (1 way),Yellow,-695,-175
+P,Traelphor (Quest),DarkCyan,-659,-314
+P,Dahlmar Raltend (Quest),DarkCyan,-336,10
+P,Mortimer (Raid),CadetBlue,-15,-67
+P,Retta Kole (Quest),DarkCyan,-259,-427
+P,Fallen Soul (Mission),DarkCyan,-351,-246
+P,Dtaemi (Quest),DarkCyan,-781,-518
+P,Morrin Fredricks (Quest),DarkCyan,-862,-157
+P,Death Stinger (HunterRoam),DarkRed,-839,-235
+P,Death Spider (Hunter),DarkRed,-379,-397
+P,Doom Snake (Hunter),DarkRed,-724,-122
+P,Fetid Spider (Hunter),DarkRed,-745,-289
+P,Frostbitten (Hunter),DarkRed,-161,-324
+P,GS: Edgards Backpack,Blue,-354,-122

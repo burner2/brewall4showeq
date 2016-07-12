@@ -1,0 +1,88 @@
+mansion_1.map,mansion_1.tmp,0,0
+P,to Fortress Mechanotus,Red,-8,-76
+P,to Fortress Mechanotus,Red,-447,329
+P,to Steam Factory,Red,-549,660
+P,Trap,Yellow,288,211
+P,Brinda's assistant's assistant,White,276,767
+P,emote on clicking door,White,288,623
+P,Graveyard,White,105,673
+P,Disco,White,463,151
+P,Skyship Dock,White,-297,951
+P,Bedroom,White,59,805
+P,Engine Room,White,-117,489
+P,Lab,White,-178,579
+P,Elevator to 3rd,Yellow,-11,873
+P,Elevator to 1st,Yellow,302,217
+P,Elevator to 2nd,Yellow,3,409
+P,Elevator to 2nd,Yellow,238,555
+P,Elevator to 2nd,Yellow,-11,871
+P,Down to 2nd,Yellow,87,482
+P,Elevator to 1st,Yellow,302,217
+P,Drop to Basement,Yellow,-365,660
+P,Elevator to 1st,Yellow,-344,710
+P,Elevator to 1st,Yellow,-393,711
+P,Elevator to 3rd,Yellow,-3,409
+P,Elevator to 2nd,Yellow,302,217
+P,Elevator to 3rd,Yellow,253,565
+P,Elevator to 3rd,Yellow,88,473
+P,Lock,Yellow,-222,247
+P,Lock,Yellow,-283,260
+P,Lock,Yellow,-380,411
+P,Lock,Yellow,-144,664
+P,Lock,Yellow,-173,398
+P,Lock,Yellow,-368,600
+P,Lock,Yellow,-226,317
+P,Lock,Yellow,-1,274
+P,Lock,Yellow,73,194
+P,Lock,Yellow,-320,599
+P,The Hangman,DarkRed,-276,716
+P,Meldrath,DarkRed,-297,950
+P,Brinda's assistant's assistant,DarkRed,276,767
+P,M.E.G,DarkRed,274,827
+P,Assistant Fudindle,DarkRed,-113,376
+P,Breaknek,DarkRed,18,551
+P,Findlewill,DarkRed,284,765
+P,Kronf the Longhorn,DarkRed,59,818
+P,Thaden,DarkRed,150,833
+P,Raewef,DarkRed,137,833
+P,Stepic,DarkRed,124,834
+P,Neilam,DarkRed,113,834
+P,Tactical Prototype XXVII,DarkRed,460,150
+P,Black,White,556,179
+P,White,White,556,168
+P,Yellow,Orange,558,155
+P,Blue,DarkBlue,557,143
+P,Green,DarkGreen,557,131
+P,Red,Red,557,119
+P,1,White,512,70
+P,2,White,512,58
+P,3,White,512,45
+P,4,White,512,35
+P,5,White,512,22
+P,6,White,512,10
+P,7,White,512,0
+P,8,White,512,-12
+P,A,White,505,77
+P,B,White,495,77
+P,C,White,481,77
+P,D,White,468,77
+P,E,White,457,77
+P,F,White,444,77
+P,G,White,433,77
+P,H,White,420,77
+P,8,White,512,229
+P,7,White,512,242
+P,6,White,512,254
+P,5,White,512,266
+P,4,White,512,278
+P,3,White,512,290
+P,2,White,512,302
+P,1,White,512,314
+P,A,White,506,319
+P,B,White,493,319
+P,C,White,481,319
+P,D,White,469,319
+P,E,White,456,319
+P,F,White,445,319
+P,G,White,434,319
+P,H,White,421,319

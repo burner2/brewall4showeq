@@ -1,0 +1,110 @@
+sarithcity_1.map,sarithcity_1.tmp,0,0
+M,line,White,2,1014,-741,-160,1014,-741,-160
+P,to Beasts' Domain,Red,-886,533
+P,to Erillion City of Bronze,Red,566,843
+P,to Valley of Lunanyn,Red,-687,897
+P,to Rubak Oseka Temple of the Sea,Red,-1204,-1159
+P,to Resplendent Temple,Red,-132,1026
+P,Succor,Red,-490,916
+P,Ladder,Yellow,-395,-313
+P,Ladder,Yellow,-36,-565
+P,Ladder,Yellow,-340,-384
+P,Ladder,Yellow,-92,-384
+P,Ladder,Yellow,588,-312
+P,Ladder,Yellow,39,-134
+P,Ladder,Yellow,450,-37
+P,Ladder,Yellow,91,-385
+P,Ladder,Yellow,273,-866
+P,Ladder,Yellow,273,-507
+P,Ladder,Yellow,-36,-131
+P,Ladder,Yellow,-630,-36
+P,Ladder,Yellow,-871,-39
+P,Ladder,Yellow,-696,-538
+P,Ladder,Yellow,-432,-833
+P,Ladder,Yellow,97,-878
+P,Elevator,Yellow,-320,-164
+P,an arms dealer (Weapons),DarkGreen,-1027,67
+P,Kiln,Magenta,-412,130
+P,Pottery Wheel,Magenta,-413,119
+P,Tackle Box,Magenta,-516,-120
+P,Brew Barrel,Magenta,-123,-216
+P,Oven,Magenta,-124,-228
+P,Tinkering Table,Magenta,-143,-117
+P,Loom,Magenta,-142,-130
+P,Forge,Magenta,-162,-110
+P,Fletching Table,Magenta,-109,-111
+P,Senora (Armor),DarkGreen,-139,-105
+P,Marius (Research),DarkGreen,-206,106
+P,Poison Table,Magenta,-186,112
+P,Jewelry Table,Magenta,-242,112
+P,Alchemy Table,Magenta,-208,122
+P,Banker,Gold,-336,-110
+P,Ruthen (General),DarkGreen,-418,108
+P,Keekli (Bartender),DarkGreen,-154,-238
+P,Bertra (Fishing),DarkGreen,-517,-107
+P,Riallion Cassand (Rebellion Outfitter),Green,-818,63
+P,Quartermaster Gilles,White,196,102
+P,Sergeant Larren,White,-516,-366
+P,High Priest Vyers Rinad,White,878,-740
+P,Riago Barthes,White,834,-635
+P,Governor Parrin Wenst,White,688,-585
+P,Archon Xenavia Eries,White,627,-636
+P,Sergeant Karus,White,479,-621
+P,Tide Priest Marinsi,White,284,-660
+P,Tiljin of the Deep,White,332,-1011
+P,Aquarn the Tidalmaster (Quests),DarkCyan,-874,-25
+P,Renarra (Quests),DarkCyan,-802,-54
+P,Fisherman Ludwigvon (Quests),DarkCyan,-168,-757
+P,Solphius Kelprunner (Quests),DarkCyan,-940,-28
+P,Coralin Seagazer,White,27,-966
+P,General Serobi (Missions),DarkCyan,-1032,9
+P,Captain Lonz Duran,White,-1063,-78
+P,Dahrius Lato,White,-832,-28
+P,Rebel leader Ain Kavus (Quests Missions),DarkCyan,-848,163
+P,Commander Marrien Kavus (Quests),DarkCyan,-848,150
+P,Chef Rolland (Quests),DarkCyan,-451,90
+P,Cartographer Weken,White,-300,-72
+P,Captain Ullas,White,-345,-183
+P,Falthen Berros (Bank & Quests),Yellow,-335,-109
+P,Guard Captain Naraind Reles (Quests Raids),CadetBlue,616,5
+P,Reqin,White,685,310
+P,Kayquon (Quests),DarkCyan,657,608
+P,Kayquon,White,-644,-196
+P,City Park,White,344,-710
+P,GS: Marinsi's Notebook,Blue,-101,-477
+P,GS: counter magic scroll,Blue,-704,-180
+P,Lieutenant Arulien,White,23,-320
+P,Tidalmage Karith,White,-103,-698
+P,Fisherman Tayron,White,127,-706
+P,Prison Warden Tuley,White,204,-93
+P,Sergeant Elvan,White,327,114
+P,GS: Arulien's Journal/Room,Blue,236,74
+P,GS: Arulien's Broken Sword,Blue,-78,900
+P,Sarith's Guardian (Hunter/Roam),DarkRed,-365,-702
+P,Kaneida (Hunter/Roam),DarkRed,-245,384
+P,Ocean Mage Rettun(Hunter),DarkRed,-688,-541
+P,Life Knight Jasul,DarkRed,478,-859
+P,Battlemage Resk(Hunter),DarkRed,837,-682
+P,Captain Dahlena(Hunter),DarkRed,627,-855
+P,Death Knight Sharris(Hunter),DarkRed,729,-913
+P,Tactician Perak(Hunter),DarkRed,835,-851
+P,Bishop Kyzer(Hunter),DarkRed,839,-799
+P,Assassin Thale (Hunter/Roam),DarkRed,263,-404
+P,Lieutenant Vasko (Hunter/Roam),DarkRed,380,-5
+P,Master Trainer Ganelin(Hunter),DarkRed,264,665
+P,Primal Mage Mollens(Hunter),DarkRed,171,846
+P,Sea Ranger Huren(Hunter),DarkRed,-542,-515
+P,Tidalmage Narens(Hunter),DarkRed,-657,-425
+P,The Kraken (Hunter/Roam),DarkRed,-548,-1089
+P,Oseka`s Chosen Ikallis(Hunter),DarkRed,-995,-1202
+P,The Giant Crab (Hunter/Roam),DarkRed,-1403,-1261
+P,The Megaladon (Hunter/Roam),DarkRed,-1241,-563
+P,Dark Mage Naxin(Hunter),DarkRed,-118,-504
+P,Wizard Port,Red,1014,-741
+P,Coraln Seagazer (Quests),DarkCyan,-1094,29
+P,GS: Marinsi's Notebook,Blue,485,-517
+P,Rune Holder One,White,-905,-1191
+P,Rune Holder Four,White,-938,-1527
+P,Rune Holder Two,White,-1284,-1471
+P,Rune Holder Three,White,-1318,-896
+P,a battered sentry stone,White,-628,-673

@@ -1,0 +1,8 @@
+stonesnake_2.map,stonesnake_2.tmp,0,0
+M,line,Red,2,-100,-100,0,100,100,0
+M,line,Red,2,100,-100,0,-100,100,0
+P,0 0,Red,0,0
+P,++,Red,100,100
+P,-+,Red,100,-100
+P,+-,Red,-100,100
+P,--,Red,-100,-100

@@ -1,0 +1,148 @@
+cityofbronze_1.map,cityofbronze_1.tmp,0,0
+P,to Sepulcher of Order,Red,-1509,64
+P,to Sarith City of Tides,Red,630,-3090
+P,to Resplendent Temple,Red,-2733,-1113
+P,to Shard's Landing,Red,-2510,1877
+P,Mortif Risoan (Banker),Gold,-1055,-1270
+P,Gorinof Tulsoi (Banker),Gold,-1148,1273
+P,Wilstoi Farniad (Banker),Gold,1277,-1051
+P,Hainif Kallion (Banker),Gold,1274,1142
+P,Forge,Magenta,133,-1048
+P,Oven,Magenta,96,-1048
+P,Kiln,Magenta,39,-1047
+P,Loom,Magenta,-29,-1051
+P,Barrel,Magenta,-81,-1048
+P,Pottery Wheel,Magenta,-121,-1051
+P,Pottery Wheel,Magenta,-1048,126
+P,Barrel,Magenta,-1049,88
+P,Loom,Magenta,-1049,36
+P,Kiln,Magenta,-1048,-41
+P,Oven,Magenta,-1048,-93
+P,Forge,Magenta,-1048,-134
+P,Forge,Magenta,-576,872
+P,Oven,Magenta,-577,812
+P,Kiln,Magenta,-576,770
+P,Loom,Magenta,-580,703
+P,Barrel,Magenta,-579,662
+P,Pottery Wheel,Magenta,-574,604
+P,Pottery Wheel,Magenta,-577,-859
+P,Barrel,Magenta,-576,-810
+P,Loom,Magenta,-576,-758
+P,Kiln,Magenta,-576,-695
+P,Oven,Magenta,-574,-639
+P,Forge,Magenta,-575,-594
+P,Pottery Wheel,Magenta,860,-716
+P,Barrel,Magenta,767,-717
+P,Forge,Magenta,762,-748
+P,Oven,Magenta,782,-748
+P,Kiln,Magenta,810,-746
+P,Loom,Magenta,842,-748
+P,Loom,Magenta,842,-748
+P,Forge,Magenta,583,-137
+P,Oven,Magenta,581,-90
+P,Kiln,Magenta,582,-35
+P,Loom,Magenta,580,32
+P,Barrel,Magenta,582,87
+P,Pottery Wheel,Magenta,581,133
+P,Forge,Magenta,1055,871
+P,Oven,Magenta,1053,821
+P,Kiln,Magenta,1056,778
+P,Loom,Magenta,1060,686
+P,Barrel,Magenta,1057,652
+P,Pottery Wheel,Magenta,1057,614
+P,Pottery Wheel,Magenta,-123,578
+P,Barrel,Magenta,-81,578
+P,Loom,Magenta,-33,580
+P,Kiln,Magenta,44,580
+P,Oven,Magenta,94,578
+P,Forge,Magenta,134,581
+P,Byqian Yuarin (Baking),DarkGreen,-852,77
+P,Reldari Calsitior (Baking),DarkGreen,-784,-491
+P,Dreltnurn Kairnai (Blacksmithing),DarkGreen,-788,-653
+P,Pibmos Hyaniro (Pottery),DarkGreen,-105,-672
+P,Snyld Faiandi (Baking),DarkGreen,-80,-851
+P,Nismor Zalirna (Blacksmithing),DarkGreen,108,-796
+P,Drukaw Fefri (Blacksmithing),DarkGreen,792,-957
+P,Losrok Reinat (Baking),DarkGreen,781,-820
+P,Cerskel Gorinar (Pottery),DarkGreen,961,-625
+P,Lygh Trianor (Baking),DarkGreen,-844,667
+P,Dredkel Pianair (Blacksmithing),DarkGreen,-834,456
+P,Fewust Tanialor (Pottery),DarkGreen,-1001,630
+P,Mokdani Dalianir (pottery),DarkGreen,-963,61
+P,Snethos Kariani (Pottery),DarkGreen,1005,-100
+P,Cenqua Corvia (Baking),DarkGreen,785,102
+P,Vordinar Maori (Blacksmithing),DarkGreen,824,-52
+P,Tasali Faedoi (Baking),DarkGreen,787,462
+P,Loaksi Siandoz (Blacksmithing),DarkGreen,789,653
+P,Kolain Hoanri (Pottery),DarkGreen,965,670
+P,Swirn Hynalori (Baking),DarkGreen,-103,786
+P,Vegsqua Bernoshi (Smithing),DarkGreen,109,798
+P,Lell Fianru (Pottery),DarkGreen,-102,1002
+P,Merchant Oarryn (Quests),DarkCyan,-1042,-226
+P,Archon Norandi (Hunter),DarkRed,-44,-13
+P,Guard Horilian (Hunter),DarkRed,624,930
+P,Joral (Quest),DarkCyan,463,-637
+P,Sentry Stone,White,-293,2034
+P,Sentry Stone,White,1688,1140
+P,Sentry Stone,White,1816,-1410
+P,Tyzen,White,1938,-1410
+P,Sentry Stone,White,1357,-2019
+P,Sentry Stone,White,-226,-2286
+P,Sentry Stone,White,-1594,-2266
+P,a sentry stone,White,-2133,-35
+P,Krosek,White,-1522,-1890
+P,Faltar,White,2016,-941
+P,Sentry Stone,White,-2047,-1599
+P,Sentry Stone,White,635,1750
+P,Sentry Stone,White,1853,-85
+P,a sentry stone,White,-2082,1271
+P,Sentry Stone,White,-1612,1897
+P,Caindi (Quest),DarkCyan,629,393
+P,Alchemist Xortiv(Quest),DarkCyan,251,405
+P,Olosir,White,-829,836
+P,Theq Casliri,White,-839,-108
+P,Guard Gantor,White,178,-136
+P,Record Keeper Buorin,White,152,30
+P,Nulbar (Quest),DarkCyan,152,75
+P,Guard Kalinir,White,176,165
+P,Culdylri (Quests),DarkCyan,195,-238
+P,Prisoner Ii'iv Vio'i (Quests),DarkCyan,284,-328
+P,Uyyina,White,436,18
+P,Oashim,White,436,-11
+P,Druthur (Quests),DarkCyan,395,-10
+P,Vinloi (Quest),DarkCyan,149,12
+P,Jerinos,White,177,23
+P,Archon Xalvir (Mission),DarkCyan,-88,53
+P,Sholano (Rebel Sympathizer),White,1319,312
+P,Front Door,White,1318,4
+P,Alijara,White,789,616
+P,Pionari,White,-118,-854
+P,Donair,White,-786,688
+P,Wanidor,White,-846,-608
+P,Stairs up and down,Yellow,-130,0
+P,Caindi's Belongings,Blue,-774,803
+P,Uyyina's chest,Blue,628,-694
+P,Srezen's Belongings,Blue,-326,-126
+P,Lijka's Belongings,Blue,126,-642
+P,Lijkas Braxi,White,-413,1053
+P,Smithing,White,-815,-58
+P,Smithing,White,814,-495
+P,Smithing,White,816,831
+P,Smithing,White,-813,966
+P,A Rabid Selyrah (Hunter),DarkRed,463,1580
+P,Cook Goranan (Hunter),DarkRed,848,970
+P,Fuandir the Master Potter (Hunter),DarkRed,99,668
+P,A Raging Braxi (Hunter),DarkRed,1434,-2171
+P,Citizen Julazir (Hunter),DarkRed,-58,-789
+P,Citizen Julazir (Hunter),DarkRed,51,-960
+P,Blacksmith Julandi (Hunter),DarkRed,788,-473
+P,Citizen Silaindi (Hunter),DarkRed,-777,-956
+P,Citizen Silaindi (Hunter),DarkRed,-958,-808
+P,Guard Tulzix (Hunter),DarkRed,855,-381
+P,Deathsqueak (Hunter),DarkRed,2016,-119
+P,A Rabid Selyrah (Hunter),DarkRed,1535,1314
+P,Citizen Jlane (Hunter),DarkRed,1222,-1110
+P,Archon Kinafu (Hunter),DarkRed,78,18
+P,Guard Tuankod (Hunter),DarkRed,497,27
+P,Carifex Korum (Hunter),DarkRed,148,61
+P,Guggles (HunterRoam),DarkRed,-1832,-1866

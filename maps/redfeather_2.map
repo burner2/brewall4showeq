@@ -1,0 +1,6 @@
+redfeather_2.map,redfeather_2.tmp,0,0
+P,0 0,Red,0,0
+P,++,Red,100,100
+P,-+,Red,100,-100
+P,+-,Red,-100,100
+P,--,Red,-100,-100

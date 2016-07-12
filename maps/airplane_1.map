@@ -1,0 +1,31 @@
+airplane_1.map,airplane_1.tmp,0,0
+P,Pad to Noble,Yellow,839,1419
+P,Pad to Quest Room,Yellow,533,1612
+P,Pad to Azarack,Yellow,370,1360
+P,Pad to Gorgalisk,Yellow,-580,-460
+P,Pad to Horses,Yellow,231,189
+P,Pad to Spiroc,Yellow,-344,493
+P,Pad to Spiroc,Yellow,729,-193
+P,Pad to Veeshan,Yellow,-1136,-717
+P,Pad to Sphinx,Yellow,410,-1181
+P,Thunder Spirit - 1,White,1250,1200
+P,X,Yellow,547,1415
+P,Noble Dojorn/Gwan,White,1700,300
+P,Pad to Azarack,Yellow,1171,454
+P,X,Yellow,1108,516
+P,Azarack - 2,White,-100,-350
+P,X,Yellow,-434,-103
+P,Gorgalisk - 3,White,550,0
+P,X,Yellow,320,563
+P,Horse - 4,White,-800,1400
+P,X,Yellow,-787,1196
+P,Spiroc - 5,White,1100,-1100
+P,X,Yellow,1111,-855
+P,Bzzazzt - 6,White,400,-1400
+P,X,Yellow,408,-775
+P,Drake/Sphinx - 7,White,-600,-1800
+P,X,Yellow,-388,-906
+P,Veeshan - 8,White,-1350,0
+P,X,Yellow,-1294,-262
+P,X - Place you port to when you take the pad,Yellow,1100,-1600
+P,GS: Charm of Sacrifice,Blue,559,1296

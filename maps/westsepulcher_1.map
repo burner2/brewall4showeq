@@ -1,0 +1,115 @@
+westsepulcher_1.map,westsepulcher_1.tmp,0,0
+P,to Sepulcher of Order,Red,643,1343
+P,to Sepulcher of Order,Red,914,890
+P,to Sepulcher East,Red,219,1819
+P,to Sepulcher East,Red,788,-256
+P,to Sepulcher of Order,Red,899,532
+P,to Sepulcher of Order,Red,753,103
+P,Succor,Red,745,-206
+P,to the Maze,Yellow,644,1762
+P,Floor P (Top),Blue,645,1880
+P,Leave Maze,Yellow,645,1910
+P,Leave Maze,Yellow,645,1845
+P,Leave Maze,Yellow,595,1880
+P,Leave Maze,Yellow,695,1880
+P,Floor B,Blue,644,2045
+P,To B,White,644,2010
+P,To A,White,695,2045
+P,To C,Magenta,595,2045
+P,To A,White,644,2080
+P,Floor A,Blue,644,2045
+P,To B,Magenta,644,2010
+P,To A,White,695,2045
+P,To A,White,595,2045
+P,To A,White,644,2080
+P,To H,White,644,2080
+P,To P (Top),Magenta,595,2045
+P,To C,White,695,2045
+P,To I,White,644,2010
+P,Floor O,Blue,644,2045
+P,To O,Magenta,644,2080
+P,To D,White,695,2045
+P,To B,White,644,2010
+P,Floor N,Blue,644,2045
+P,To D,White,644,2080
+P,To N,Magenta,595,2045
+P,To J,White,695,2045
+P,To E,White,644,2010
+P,Floor M,Blue,644,2045
+P,To M,Magenta,644,2080
+P,To I,White,595,2045
+P,To G,White,695,2045
+P,To I,White,644,2010
+P,Floor L,Blue,644,2045
+P,To J,White,644,2080
+P,To L,Magenta,595,2045
+P,To J,White,695,2045
+P,To G,White,644,2010
+P,Floor K,Blue,644,2045
+P,To C,White,644,2080
+P,To K,Magenta,595,2045
+P,To E,White,695,2045
+P,To A,White,644,2010
+P,Floor J,Blue,644,2045
+P,To B,White,644,2080
+P,To F,White,595,2045
+P,To J,Magenta,695,2045
+P,To B,White,644,2010
+P,Floor I,Blue,644,2045
+P,To G,White,644,2080
+P,To I,Magenta,595,2045
+P,To F,White,695,2045
+P,To D,White,644,2010
+P,Floor H,Blue,644,2045
+P,To C,White,644,2080
+P,To E,White,595,2045
+P,To C,White,695,2045
+P,To H,Magenta,644,2010
+P,Floor G,Blue,644,2045
+P,To G,Magenta,644,2080
+P,To A,White,595,2045
+P,To A,White,695,2045
+P,To C,White,644,2010
+P,Floor F,Blue,644,2045
+P,To F,Magenta,644,2080
+P,To D,White,595,2045
+P,To A,White,695,2045
+P,To D,White,644,2010
+P,Floor E,Blue,644,2045
+P,To B,White,644,2080
+P,To E,Magenta,595,2045
+P,To C,White,695,2045
+P,To A,White,644,2010
+P,Floor D,Blue,644,2045
+P,To C,White,644,2080
+P,To C,White,595,2045
+P,To D,Magenta,695,2045
+P,To C,White,644,2010
+P,Floor C,Blue,644,2045
+P,Jordi,White,2098,194
+P,The Relic of Ladrys,White,644,1878
+P,Sentry Stone of Oseka,White,1323,462
+P,The Relic of Oseka,White,2371,297
+P,The Relic of Ladrys,White,644,1530
+P,a thelasa ereth of Illdaera (Quest),DarkCyan,697,1411
+P,a thelasa ereth of Lunanyn (Quest),DarkCyan,1012,0
+P,The Relic of Illdaera,White,1970,841
+P,Sentry Stone of Illdaera,White,1093,887
+P,The Relic of Sholoth,White,1506,-578
+P,Sentry Stone of Sholoth,White,879,-22
+P,Decayed Remains,DarkBlue,1378,-651
+P,Decayed Remains,DarkBlue,1393,-470
+P,Decayed Remains,DarkBlue,1421,-484
+P,Decayed Remains,DarkBlue,1473,-565
+P,Decayed Remains,DarkBlue,1460,-614
+P,Decayed Remains,DarkBlue,1540,-640
+P,Decayed Remains,DarkBlue,1533,-548
+P,Dunia,White,1562,-631
+P,a thelasa ereth of Lunanyn (Quest),DarkCyan,981,943
+P,a thelasa ereth of Illdaera (Quest),DarkCyan,1250,565
+P,Deepblade (Hunter),DarkRed,2354,381
+P,The Cleaner (Hunter),DarkRed,656,2050
+P,Mindlock (Hunter),DarkRed,630,2044
+P,Wavecrasher (Hunter),DarkRed,2096,266
+P,The Digger (HunterRoam),DarkRed,1297,-548
+P,The Chosen (HunterRoam),DarkRed,1909,803

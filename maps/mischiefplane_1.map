@@ -1,0 +1,80 @@
+mischiefplane_1.map,mischiefplane_1.tmp,0,0
+P,Zone In,Red,-395,-1410
+P,to Cobalt Scar (click tree),Red,-353,-1017
+P,Alice Wing,White,411,1415
+P,Audience,White,168,432
+P,BW Room,White,-928,285
+P,Black and White Room,White,-927,443
+P,Dining Hall,White,78,248
+P,Chessboard,White,-957,821
+P,Chessboard A,White,-959,620
+P,Chessboard B,White,157,676
+P,Doors Room,White,-125,709
+P,Entrance,White,-370,-100
+P,Entry,White,-391,130
+P,Garden,White,-417,1351
+P,Library,White,-1011,197
+P,Theater,White,190,480
+P,Theatre,White,165,519
+P,Throne Room,White,-125,888
+P,Upside-Down Wing-1,White,78,281
+P,Upside-Down-Wing-2,White,112,234
+P,WW-2,White,-5,81
+P,WW-3,White,-177,122
+P,to Alice,Yellow,-1084,821
+P,to BW Room,Yellow,-114,207
+P,to Chessboard,Yellow,148,672
+P,to Doors Room,Yellow,-42,353
+P,to Entry,Yellow,-928,277
+P,to Entry,Yellow,-125,761
+P,to Entry,Yellow,-477,1889
+P,to Entry,Yellow,402,1438
+P,to E Wing(broken),Yellow,-417,1471
+P,to Garden,Yellow,-154,148
+P,to Theatre,Yellow,-819,45
+P,to Throne Room,Yellow,-95,673
+P,to UDW-1,Yellow,232,222
+P,to UDW-2,Yellow,257,149
+P,to UDW-1,Yellow,-403,1249
+P,to UDW-1,Yellow,-832,821
+P,to WW-3,Yellow,-25,49
+P,to WW-2,Yellow,-175,65
+P,Loc#11,Yellow,302,542
+P,from Theatre,Blue,-957,621
+P,from E Wing,Blue,301,388
+P,from Garden,Blue,-916,97
+P,from UW Wing,Blue,-127,687
+P,from W Wing,Blue,-413,1520
+P,from Chessboard,Yellow,421,1426
+P,from Doors Room,Yellow,-125,767
+P,----SALVATION,Yellow,-450,298
+P,DEATH!!!----,Yellow,-160,300
+P,Book A,White,290,393
+P,Book a,White,-817,46
+P,a savvy sphinx,DarkRed,-1156,348
+P,a gorilla prodigy,DarkRed,-1026,146
+P,a craven rascal,DarkRed,-13,200
+P,an astray hand,DarkRed,-140,130
+P,a method actor,DarkRed,66,474
+P,a troublesome charlatan,DarkRed,-346,868
+P,a witty sphinx,DarkRed,290,275
+P,a forsaken hand,DarkRed,-720,708
+P,a bogus treasure chest,DarkRed,180,218
+P,a frolicking performer,DarkRed,243,752
+P,an obsessed patron,DarkRed,176,401
+P,a hedge magus,DarkRed,-518,1413
+P,The Grand Gardener,DarkRed,-460,1300
+P,a hedge soldier,DarkRed,-350,1080
+P,All-Seeing Eye,DarkRed,-417,1291
+P,a paradoxical sphinx,DarkRed,-120,489
+P,an asinine ape,DarkRed,-100,400
+P,a barmy burglar,DarkRed,277,188
+P,A Mischievous Jester,DarkRed,-121,683
+P,The Bunny Behemoth,DarkRed,-527,1666
+P,a fraudulent chest,DarkRed,-387,93
+P,The Master of Mayhem,DarkRed,72,1322
+P,a gifted sphinx,DarkRed,-809,64
+P,an ample ape,DarkRed,-470,1515
+P,a wicked performer,DarkRed,268,538
+P,Bristlebane King of Thieves,DarkRed,-125,938
+P,a theatre fanatic,DarkRed,169,641

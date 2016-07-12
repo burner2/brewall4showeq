@@ -1,0 +1,183 @@
+freeportwest_1.map,freeportwest_1.tmp,0,0
+P,to Commonlands,Red,428,287
+P,to East Freeport,Red,-1478,-111
+P,Bank,Gold,-795,552
+P,Judge Marion Teld`mare,White,109,604
+P,Event Coordinator Baublie Diggs,White,142,599
+P,Tenni Kohern (weapons),DarkGreen,196,-142
+P,Rigg Nostra,White,219,-164
+P,Neas Levati (Missions),DarkCyan,-1000,278
+P,Whittle Rentorp (Missions),DarkCyan,-1011,726
+P,Rashinda Elore (Baking),DarkGreen,-1019,601
+P,Dooly Jonkers,White,-1059,-41
+P,Soren the Sorcerer (Missions),DarkCyan,-1062,279
+P,Voglan Dransed,White,-1075,-360
+P,Xinari Anara (Spells),DarkGreen,-1075,-53
+P,Theron Rolius,White,-114,894
+P,Pincia Brownloe (Baking),DarkGreen,-1172,-235
+P,Tradesman Lyna,DarkGreen,-1176,709
+P,Ran Brownloe (Baking),DarkGreen,-1179,-252
+P,a Town Crier,White,-1189,368
+P,Tradesman Tulan,DarkGreen,-1210,710
+P,Taxonomist Darwin Grisk,White,-1278,-342
+P,Karl Saffio (Tribute),White,-1295,464
+P,Yellus Gravien,White,-1302,764
+P,Gibbon Morfield,White,-1310,724
+P,Jade (Jewelry),DarkGreen,-1319,-158
+P,Amber (Jewelry),DarkGreen,-1332,-148
+P,Zigg Flin,White,-1347,-159
+P,Ston O`Donner,White,-1358,810
+P,Merko Quetalis,White,-136,1018
+P,Qilcil Doezius,White,-1423,-88
+P,Jenna Smith,White,-1426,-56
+P,Jillian Dayson (Smithing),DarkGreen,-1429,530
+P,Erista Tidius,White,-1445,-82
+P,Muro Kouai,White,-1447,54
+P,Quarenarn Elditia,White,-1455,530
+P,Malrion Rilius,White,-1456,515
+P,Indrian Rakeaus,White,-1457,497
+P,Klom Jysun,White,-1492,-259
+P,Ran`un,White,-1499,-185
+P,The Ashen Order,White,-1499,-253
+P,Thena Lonnes,White,-1499,-171
+P,Reyia Beslin,White,-1502,-153
+P,Asnod Marnoc,White,-1519,-220
+P,Indanrian Lyshius,White,-1523,418
+P,Roma Pulawaoo,White,-1526,236
+P,Velan Torresk,White,-1531,-213
+P,Puab Closk,White,-1547,-240
+P,Fania Esruc,White,-1548,-231
+P,Arem Ulosia,White,-1560,1326
+P,Amata D`Lavi,White,-1574,1470
+P,to Freeport Sewers,Red,-158,1025
+P,Ardiflah Steadirt,White,-1606,418
+P,Bondl Felligan,White,-161,1026
+P,Etomuno Imihao,White,-1616,1482
+P,Palious Jarten,White,-1620,1467
+P,Trudie Steelbone,White,-1621,431
+P,Gygus Remnara,White,-1621,1390
+P,Direlee Furme,White,-1622,1459
+P,Krystin Charcoal,White,-1625,302
+P,Oresan Kai,White,-1625,277
+P,Captain Victor Lis (Missions),DeepPink,-1626,1504
+P,Groflah's Forge,Magenta,-1635,381
+P,Gubbly Gippledo,White,-1636,1606
+P,Ping Fuzzlecutter,White,-1643,302
+P,Kyrin Steelbone,White,-1643,411
+P,Rhensa Steadirt,White,-1647,377
+P,to Freeport Sewers,Red,-165,-366
+P,Yoson Wea,White,-1654,279
+P,Locarme Zennix,White,-1657,1533
+P,Lanis Herion,White,-1663,1475
+P,Plur Etinu,White,-1664,1432
+P,Kalatrina Plossen,White,-168,768
+P,Jemoz Lerkarson,White,-1687,1612
+P,Temple of Marr,White,-1689,664
+P,Orex Nolus (Spells),DarkGreen,-170,1109
+P,to East Freeport,Red,-1712,299
+P,Serna Tasknon,White,-1717,1536
+P,Celsar Vestagon,White,-1721,1456
+P,Salinsa Delfdosan,White,-1728,964
+P,Geep Tresoj,White,-1736,1541
+P,Mevah Toklius,White,-1749,1606
+P,Quanarn Dereus,White,-1752,1473
+P,Wahe Oopi,White,-1753,1388
+P,Perep Chen,White,-1754,1406
+P,Nosspri Andrika,White,-1754,1460
+P,Uroshira Keiwiuko,White,-1760,1480
+P,Hulos Ghenar,White,-1805,1474
+P,Ghonic Erharn,White,-1813,1328
+P,Torlig's Herbs & Medicines,White,-1822,275
+P,Torlig Mudel (Alchemy),DarkGreen,-1837,265
+P,Orlyna Mudel (Alchemy),DarkGreen,-1847,254
+P,Plink Gemtosser (Missions),Orchid,-1859,567
+P,Teniyu Emua,White,-1892,577
+P,Markin Ironwhite,White,-256,810
+P,Naltor Kohon,White,-268,55
+P,Wahnig Nooz,White,-270,22
+P,Jallen Nooz,White,-271,69
+P,Lystyn Wyspin,White,-290,-243
+P,The Emporium,White,-296,-194
+P,Svinal Wyspin,White,-301,-243
+P,Jusia Vapious,White,-307,763
+P,Sayec Kellye,White,-310,-213
+P,a Town Crier,White,-343,9
+P,Judicla Riverfield (Brewing),DarkGreen,-359,-191
+P,Shania Tassel (Brewing),DarkGreen,-367,-191
+P,Hyrill Pon,White,-374,-172
+P,Gern Tassel,White,-375,-211
+P,Danubi,White,-378,-147
+P,Valeron Dushire,White,-381,951
+P,Tassel's Tavern,White,-396,-159
+P,Darrisa Nyny,White,-411,-196
+P,Onytir Seavin,White,-417,-168
+P,Genniau Noghce,White,-425,-152
+P,Dunore Moorwing,White,-426,-187
+P,Hall of Truth,White,-433,521
+P,Braden,White,-436,-214
+P,Pottery,DarkGreen,-465,148
+P,Falia Frikniller,White,-468,86
+P,Smithy,DarkGreen,-489,123
+P,Chaenthe Osere,White,-490,-210
+P,Pottery,DarkGreen,-503,210
+P,The Jade Tiger's Den,White,-515,-215
+P,Galio,White,-524,107
+P,Innkeep Evelona,White,-525,-262
+P,Elder Spirit of Enlightenment,White,-527,-248
+P,Innkeep Rille,White,-535,-263
+P,Timor Strongbranch (Fletching),DarkGreen,-536,-36
+P,Alchemist Bauer,DarkGreen,-540,-285
+P,Bran Greenglade,White,-543,401
+P,Valla Strongbranch (Fletching),DarkGreen,-549,-4
+P,Rodenn Irygh,White,-579,409
+P,Alec Greenglade,White,-586,422
+P,Edwardian Holyblade,White,-592,860
+P,Arinna Trueblade,White,-611,579
+P,Trissa Whistlesong (Tasks),White,-612,171
+P,Hogcallers' Inn,White,-616,139
+P,Jyle Windshot,White,-621,118
+P,Shintl Lowbrew,White,-627,148
+P,Rothoch Bilye,White,-649,105
+P,Lady Shae,White,-650,172
+P,Swin Blackeye,White,-652,113
+P,Innkeep Palola,White,-662,707
+P,Queliel Phanus,White,-663,692
+P,Slan ODonner,White,-687,705
+P,Chasmos Throusk,White,-692,692
+P,Amie Moonspin (Jewelry),DarkGreen,-695,434
+P,Eyunrian Claibus,White,-702,395
+P,Donala Baris (Spells),DarkGreen,-705,803
+P,Dulia Jestes,White,-756,-352
+P,a Town Crier,White,-762,600
+P,Charia Betou (Spells),DarkGreen,-764,-42
+P,Peran Silverfield (Banker),Gold,-776,556
+P,Bello Fruegnos (Tasks),Orchid,-778,-48
+P,Quanarn Deneyus,White,-786,61
+P,Janam Rekish,White,-806,72
+P,Eestyana Naestra,White,-806,806
+P,Rebby Willend,White,-818,57
+P,a Town Crier,White,-868,253
+P,Opal Darkbriar,White,-886,-507
+P,Tarsa Yovar,White,-887,908
+P,Respin Yawg,White,-887,162
+P,Raenna Griff,White,-897,916
+P,Hemia Skemner,White,-906,176
+P,Yovik Splegle,White,-909,933
+P,to Arcstone,Red,-919,-172
+P,Ulia Yovar,White,-921,925
+P,Lorme Tredore,White,-924,-562
+P,Malarn Sinius,White,-929,300
+P,Qilanyon Saenius,White,-929,274
+P,Ginehl Wiquar,White,-935,168
+P,Lynda Tapper,White,-939,299
+P,Mirpa Arana (Spells),DarkGreen,-947,-558
+P,Informant Famy (Missions),DarkCyan,-949,279
+P,Chardo Ahdelia (Spells),DarkGreen,-956,120
+P,Lynce Renardo,White,-957,149
+P,Mumaru Likaeu,White,-959,299
+P,Filrian Lylius,White,-959,277
+P,Freeport City Hall,White,-1194,598
+P,The Academy of Arcane Science,White,-919,-196
+P,Brownloe Bakery,White,-1194,-253
+P,Teleporter Up,Yellow,-772,-194
+P,Teleporter Down,Yellow,-934,-317

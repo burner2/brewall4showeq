@@ -1,0 +1,114 @@
+chelsithreborn_1.map,chelsithreborn_1.tmp,0,0
+P,to The Grey,Red,0,-598
+P,to Shard's Landing,Red,-978,-376
+P,Succor,Red,0,-598
+P,Drop into Aqueducts,Yellow,-1310,2212
+P,Teleporter "C",Yellow,1444,1686
+P,Teleporter "D",Yellow,-1024,1061
+P,Teleporter "D",Yellow,-531,1510
+P,Teleporter "B",Yellow,-250,893
+P,Teleporter "C",Yellow,531,1512
+P,Teleporter "B",Yellow,5,975
+P,Teleporter "A",Yellow,231,2608
+P,Teleporter "A",Yellow,-4,2041
+P,Portal "A",Yellow,784,1174
+P,The Tailor (Tailoring),DarkGreen,-797,721
+P,The Butcher (Food),DarkGreen,-841,714
+P,The Odd One (General Supplies),DarkGreen,-826,728
+P,a lazy slave (Brewing),DarkGreen,-1,1386
+P,Sympathetic Slivk (General Supplies),DarkGreen,-25,1562
+P,Miltrok the Meek (Quest),DarkCyan,544,694
+P,Fernando (Quest),DarkCyan,-959,-494
+P,Rikkey the Cricket (Quest),DarkCyan,-680,137
+P,Lisk the Cruel (Quest),DarkCyan,-1047,2055
+P,Kalsik Iceblood (Quest),DarkCyan,1443,2617
+P,Grulid (Quest),DarkCyan,-42,1491
+P,Jefe the Drunk (Quest),DarkCyan,33,1498
+P,Silchek (Quest),DarkCyan,-200,-433
+P,Tiye (Quest),DarkCyan,185,1895
+P,Calvin Tresc (Mission),DarkCyan,887,1334
+P,Kilithyr (Quest Mission Raid),CadetBlue,56,1523
+P,Up,Gold,1332,1366
+P,Down,Gold,1330,1363
+P,Up,Gold,1333,915
+P,Down,Gold,1324,918
+P,Up,Gold,1329,1639
+P,Down,Gold,892,398
+P,Up,Gold,899,396
+P,Up,Gold,-527,281
+P,Down,Gold,-527,282
+P,Up,Gold,570,302
+P,Down,Gold,-489,545
+P,Up,Gold,-489,550
+P,Down,Gold,-844,489
+P,Up,Gold,-850,485
+P,Down,Gold,-415,58
+P,Up,Gold,-413,63
+P,Up,Gold,624,-22
+P,Down,Gold,626,-20
+P,Down,Gold,572,302
+P,Down,Gold,-528,1267
+P,Up,Gold,-530,1253
+P,Up,Gold,-475,877
+P,Down,Gold,-473,877
+P,Down,Gold,1087,2329
+P,Up,Gold,1091,2332
+P,Down,Gold,1269,2408
+P,Up,Gold,1268,2420
+P,Down,Gold,921,1953
+P,Up,Gold,918,1954
+P,Down,Gold,754,2054
+P,Up,Gold,758,2056
+P,Down,Gold,592,1681
+P,Up,Gold,605,1682
+P,Down,Gold,458,1949
+P,Up,Gold,457,1950
+P,Down,Gold,-525,1962
+P,Up,Gold,-529,1962
+P,Down,Gold,-837,1918
+P,Up,Gold,-843,1923
+P,Up,Gold,-420,2400
+P,Down,Gold,-431,2400
+P,Down,Gold,-176,2291
+P,Up,Gold,-176,2291
+P,Down,Gold,229,2412
+P,Up,Gold,231,2423
+P,Canal District,White,125,2589
+P,Research Labs District,White,1237,1143
+P,Marketplace District,White,-683,1264
+P,Residential District,White,-568,2215
+P,Metalworking District,White,941,2172
+P,Gladiator Arena,White,-2,404
+P,A Huge Mistake (Hunter),DarkRed,1320,1227
+P,A Huge Mistake (Hunter),DarkRed,1332,1067
+P,A Huge Mistake (Hunter),DarkRed,1320,800
+P,A Possessed Farseer (Hunter/Roam),DarkRed,-45,2099
+P,A Successful Mistwielder (Hunter),DarkRed,1359,2084
+P,Floppy Flick (Hunter),DarkRed,879,-473
+P,Glorig the Underdog (Hunter),DarkRed,932,-23
+P,Gora the Gourdsmasher (Hunter/Roam),DarkRed,-907,1100
+P,High Diabolist Dyengo (Hunter),DarkRed,-3,1348
+P,Silvi the Mistress (Hunter),DarkRed,105,2063
+P,Silvi the Mistress (Hunter),DarkOrange,233,2079
+P,Silvi the Mistress (Hunter),DarkOrange,288,2150
+P,Swordmaster Karla (Hunter),DarkRed,828,2323
+P,Swordmaster Karla (Hunter),DarkRed,760,2283
+P,The Hundred Hands of Blood (Hunter),DarkRed,-748,83
+P,The Undefeated Blade (Hunter),DarkRed,3,423
+P,Alassh the Cannibal (Hunter/Gladiator),DarkRed,818,-76
+P,Ogoruk the Charming (Hunter/Gladiator),DarkRed,808,-79
+P,Katazz the Twisted (Hunter/Roam/Gladiator),DarkRed,774,-29
+P,Death Fang Teraz (Hunter/Gladiator),DarkRed,525,76
+P,Korizar the Neckbreaker (Hunter/Gladiator),DarkRed,585,222
+P,Iross the Sledge (Hunter/Gladiator),DarkRed,521,246
+P,Nentassh the Blade Queen (Hunter/Roam/Gladiator),DarkRed,489,295
+P,The Steel Serpent (Hunter/Gladiator),DarkRed,621,345
+P,Akazz the Blood Goddess (Hunter/Gladiator),DarkRed,765,453
+P,Zurul the Bonecruncher (Hunter/Gladiator),DarkRed,758,455
+P,Nendor the Daunting (Hunter/Gladiator),DarkRed,822,135
+P,Ulga the Elfeater (Hunter/Gladiator),DarkRed,760,369
+P,Tiensien the Mad (Quest),DarkCyan,487,1588
+P,Sridge The Friendly Fisherman,White,-283,-493
+P,The Dissapearing Wall,White,-96,2630
+P,Market Area (Roof),White,-827,2447
+P,Debauched Noble,White,190,2026

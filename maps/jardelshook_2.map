@@ -1,0 +1,6 @@
+jardelshook_2.map,jardelshook_2.tmp,0,0
+P,0 0,Red,0,0
+P,++,Red,100,100
+P,-+,Red,100,-100
+P,+-,Red,-100,100
+P,--,Red,-100,-100

@@ -1,0 +1,75 @@
+bothunder_1.map,bothunder_1.tmp,0,0
+P,from Plane of Tranquility,Red,178,207
+P,Fire,White,152,3
+P,Earth,White,23,-130
+P,Ice,White,-112,-5
+P,Agnarr Tower,White,170,14
+P,GS: Bits of Blue Metal,Blue,110,-1180
+P,to Fire Tower,Yellow,-224,348
+P,to Lobby,Yellow,-159,412
+P,to Lobby,Yellow,-229,-314
+P,to Air Tower,Yellow,-162,-378
+P,to Lobby,Yellow,492,-389
+P,to Ice Tower,Yellow,555,-323
+P,to Lobby,Yellow,556,344
+P,to Earth Tower,Yellow,494,410
+P,Earth,White,-350,-2200
+P,to Courtyard,Yellow,26,-1584
+P,Fire,White,147,-1220
+P,AIR,White,85,145
+P,Air,White,19,129
+P,to A,White,241,526
+P,A,White,9,230
+P,to B,White,152,408
+P,B,White,220,410
+P,to C,White,-44,282
+P,C,White,-55,315
+P,to B,White,139,642
+P,to D,White,-74,256
+P,D,White,-102,265
+P,to A,White,-341,617
+P,to E,White,-204,469
+P,E,White,-169,465
+P,to Courtyard,White,-98,762
+P,to Lobby,Yellow,78,109
+P,to Lower Tower,Yellow,60,287
+P,to Courtyard,Yellow,43,16
+P,to Upper Tower,Yellow,397,412
+P,to Courtyard,Yellow,59,282
+P,Ice,White,-830,-865
+P,to Lower Tower,Yellow,-476,-864
+P,Lower Tower,White,-902,-985
+P,to Courtyard,Yellow,-786,-929
+P,to Lobby,Yellow,-853,-864
+P,to Upper Tower,Yellow,-916,-740
+P,Upper Tower,White,-803,-1074
+P,to Courtyard,Yellow,-777,-662
+P,to Lobby,Yellow,-355,-2128
+P,Lobby,White,-22,-11
+P,to Courtyard,Yellow,680,5
+P,to Courtyard,Yellow,-932,-43
+P,to Lower Tower,Yellow,421,-1154
+P,Lower Tower,White,166,-1092
+P,to Upper Tower,Yellow,262,-1125
+P,Upper Tower,White,-50,-1205
+P,to Lobby,Yellow,423,-1345
+P,to Courtyard,Yellow,168,-1295
+P,to Courtyard,Yellow,-61,-1227
+P,Lower Tower,White,42,98
+P,Askr the Lost,White,-939,-1772
+P,Next level of Torden,White,-1118,-1733
+P,Upper Tower,White,483,284
+P,Leaf Windfall,DarkRed,-105,731
+P,Brynju Thunderclap,DarkRed,224,-1236
+P,Iri,DarkRed,-9,-1934
+P,Leistr,DarkRed,-1,-1894
+P,Hrani,DarkRed,66,-1927
+P,Kuanbyr Hailstorm,DarkRed,28,-1937
+P,Auliffe Chaoswind,DarkRed,259,280
+P,Gaukr Sandstorm,DarkRed,17,-1563
+P,Riodhr Torrentwind,DarkRed,-873,302
+P,Keeper of the Past Lore,DarkRed,-846,283
+P,Oreen Wavecrasher,DarkRed,-901,-37
+P,Evynd Firestorm,DarkRed,-1109,-1735
+P,Emmerik Skyfury,DarkRed,-1107,-1734
+P,Eindride Icestorm,DarkRed,-442,-866

@@ -1,0 +1,39 @@
+ssratemple_1.map,ssratemple_1.tmp,0,0
+P,to The Grey,Red,-16,-45
+P,to The Deep,Red,-500,-900
+P,Forge,Magenta,-290,-538
+P,Trap,Yellow,350,-120
+P,Locked Door (210 Picklock),Yellow,250,-320
+P,Locked Door (210 Picklock),Yellow,350,-200
+P,Locked Door (Picklock),Yellow,-137,241
+P,Locked Door (Zherozsh Key),Yellow,100,-20
+P,Locked Door (Zazuzh Key),Yellow,520,250
+P,To Second Floor,Yellow,250,250
+P,To Second Floor,Yellow,0,-450
+P,To First Floor,Yellow,600,50
+P,To Basement,Yellow,600,50
+P,ArchLich,DarkRed,450,-150
+P,Creator,DarkRed,250,250
+P,HightPriest,DarkRed,125,375
+P,Mezhkazh,DarkRed,800,-200
+P,Rhag`Zhezum,DarkRed,550,-375
+P,Rhozth Ssrakezh,DarkRed,-212,135
+P,Hilog Jarsath,DarkRed,-140,-772
+P,Rutin Kylong,DarkRed,66,-1041
+P,Granic Obulus,DarkRed,158,-751
+P,Nerla Kunzar,DarkRed,-52,-1004
+P,Rhozth Ssravich,DarkRed,-212,-154
+P,Kalin Nathsar,DarkRed,-281,-994
+P,Clati soriz,DarkRed,18,-1171
+P,Assassin,DarkRed,250,-250
+P,Rhag`Mozdezh,DarkRed,625,-260
+P,Zazuzhat Level,White,700,200
+P,Zherozshat level,White,750,0
+P,Second Floor,White,625,220
+P,Second Floor,White,100,-200
+P,Third Floor,White,625,220
+P,Third Floor,White,100,-200
+P,First Floor,White,250,250
+P,First Floor,White,0,-450
+P,Discipline Yelwinz,DarkRed,-251,133
+P,Defiler Juzlix,DarkRed,-32,-113

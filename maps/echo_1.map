@@ -1,0 +1,27 @@
+echo_1.map,echo_1.tmp,0,0
+P,to Shadow Haven,Red,-888,829
+P,to Fungus Grove,Red,1025,1145
+P,to The Deep,Red,1587,-1736
+P,to Shadow Haven,Red,-50,-1003
+P,Succor Point,Red,-800,840
+P,Elevator,Yellow,287,-1284
+P,Drible (Baking),DarkGreen,-894,1601
+P,Kacheoa (Spells),DarkGreen,-769,1605
+P,Rasl (Merchant),DarkGreen,-614,1385
+P,Solsain (Gems),DarkGreen,-541,1319
+P,Pugidlar (Jewelry),DarkGreen,-791,1337
+P,Olowakn (Merchant),DarkGreen,-849,1408
+P,Saerlsam (Bar),DarkGreen,-912,1313
+P,Falos (Spells),DarkGreen,-753,1599
+P,Horoal (Spells),DarkGreen,-877,1587
+P,Pelinor (Weapons),DarkGreen,-403,1124
+P,Trace (Tinkerer),DarkGreen,230,-747
+P,Teropalig (GM Cleric),Grey,-846,1609
+P,Kelador (GM Necromancer),Grey,-273,1739
+P,Wirgus (GM Enchanter),Grey,-555,1542
+P,Yurian (GM Magician),Grey,-461,1496
+P,Celerik (GM Wizard),Grey,-462,1528
+P,Nochtar (GM Necromancer),Grey,-463,1512
+P,Prasor (GM Rogue),Grey,-364,1093
+P,Norfin (GM Shadowknight),Grey,-305,1169
+P,Galeron (GM Warrior),Grey,-404,1226
